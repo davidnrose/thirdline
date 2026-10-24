@@ -1,0 +1,3001 @@
+Patient_ID,Post_Discharge_Care_Flag,Care_Service_Type,Readmitted_30Days
+P00001,Yes,Medical Equipment Delivery,Yes
+P00002,No,None,No
+P00003,No,None,No
+P00004,No,None,No
+P00005,Yes,Medical Equipment Delivery,Yes
+P00006,Yes,Home Health Nursing,Yes
+P00007,Yes,Medical Equipment Delivery,Yes
+P00008,No,None,No
+P00009,No,None,No
+P00010,No,None,No
+P00011,Yes,Physical Therapy,No
+P00012,No,None,No
+P00013,No,None,Yes
+P00014,Yes,Medical Equipment Delivery,No
+P00015,Yes,Transportation Assistance,No
+P00016,Yes,Home Health Nursing,No
+P00017,Yes,Medical Equipment Delivery,Yes
+P00018,No,None,No
+P00019,No,None,No
+P00020,Yes,Home Health Nursing,No
+P00021,No,None,No
+P00022,Yes,Physical Therapy,No
+P00023,Yes,Home Health Nursing,No
+P00024,Yes,Home Health Nursing,No
+P00025,No,None,No
+P00026,No,None,No
+P00027,Yes,Physical Therapy,No
+P00028,No,None,No
+P00029,No,None,No
+P00030,Yes,Medical Equipment Delivery,No
+P00031,No,None,Yes
+P00032,Yes,Home Health Nursing,No
+P00033,Yes,Medical Equipment Delivery,Yes
+P00034,No,None,No
+P00035,No,None,No
+P00036,No,None,No
+P00037,Yes,Physical Therapy,No
+P00038,Yes,Home Health Nursing,No
+P00039,No,None,No
+P00040,No,None,No
+P00041,Yes,Medical Equipment Delivery,No
+P00042,No,None,No
+P00043,Yes,Home Health Nursing,No
+P00044,No,None,No
+P00045,Yes,Physical Therapy,No
+P00046,No,None,No
+P00047,Yes,Medical Equipment Delivery,No
+P00048,No,None,Yes
+P00049,No,None,No
+P00050,Yes,Home Health Nursing,No
+P00051,No,None,No
+P00052,No,None,No
+P00053,No,None,No
+P00054,No,None,No
+P00055,No,None,No
+P00056,No,None,No
+P00057,Yes,Home Health Nursing,Yes
+P00058,Yes,Physical Therapy,No
+P00059,Yes,Transportation Assistance,No
+P00060,Yes,Medical Equipment Delivery,No
+P00061,Yes,Medical Equipment Delivery,No
+P00062,Yes,Medical Equipment Delivery,No
+P00063,No,None,No
+P00064,Yes,Home Health Nursing,Yes
+P00065,Yes,Physical Therapy,No
+P00066,No,None,No
+P00067,Yes,Medical Equipment Delivery,No
+P00068,No,None,No
+P00069,Yes,Home Health Nursing,Yes
+P00070,No,None,No
+P00071,No,None,No
+P00072,Yes,Home Health Nursing,No
+P00073,Yes,Home Health Nursing,No
+P00074,No,None,No
+P00075,No,None,No
+P00076,No,None,No
+P00077,No,None,No
+P00078,Yes,Physical Therapy,No
+P00079,Yes,Transportation Assistance,No
+P00080,Yes,Home Health Nursing,Yes
+P00081,No,None,No
+P00082,No,None,No
+P00083,Yes,Physical Therapy,No
+P00084,Yes,Home Health Nursing,No
+P00085,Yes,Transportation Assistance,No
+P00086,Yes,Home Health Nursing,No
+P00087,No,None,No
+P00088,No,None,Yes
+P00089,No,None,No
+P00090,No,None,No
+P00091,Yes,Physical Therapy,No
+P00092,No,None,No
+P00093,No,None,No
+P00094,No,None,No
+P00095,No,None,No
+P00096,No,None,No
+P00097,No,None,Yes
+P00098,No,None,No
+P00099,Yes,Medical Equipment Delivery,No
+P00100,Yes,Medical Equipment Delivery,No
+P00101,Yes,Physical Therapy,No
+P00102,No,None,Yes
+P00103,Yes,Home Health Nursing,No
+P00104,No,None,No
+P00105,No,None,No
+P00106,Yes,Physical Therapy,No
+P00107,No,None,No
+P00108,No,None,No
+P00109,Yes,Home Health Nursing,Yes
+P00110,Yes,Home Health Nursing,No
+P00111,Yes,Physical Therapy,No
+P00112,Yes,Home Health Nursing,Yes
+P00113,No,None,No
+P00114,No,None,Yes
+P00115,No,None,No
+P00116,No,None,No
+P00117,No,None,No
+P00118,Yes,Home Health Nursing,No
+P00119,No,None,No
+P00120,No,None,No
+P00121,No,None,No
+P00122,No,None,No
+P00123,Yes,Medical Equipment Delivery,Yes
+P00124,Yes,Transportation Assistance,No
+P00125,Yes,Medical Equipment Delivery,Yes
+P00126,No,None,No
+P00127,No,None,No
+P00128,No,None,No
+P00129,Yes,Home Health Nursing,No
+P00130,No,None,No
+P00131,No,None,No
+P00132,Yes,Home Health Nursing,Yes
+P00133,Yes,Transportation Assistance,No
+P00134,Yes,Home Health Nursing,No
+P00135,No,None,No
+P00136,Yes,Home Health Nursing,Yes
+P00137,No,None,No
+P00138,No,None,Yes
+P00139,Yes,Physical Therapy,No
+P00140,No,None,No
+P00141,No,None,No
+P00142,Yes,Medical Equipment Delivery,No
+P00143,No,None,No
+P00144,Yes,Medical Equipment Delivery,No
+P00145,Yes,Home Health Nursing,No
+P00146,Yes,Home Health Nursing,No
+P00147,No,None,No
+P00148,No,None,No
+P00149,Yes,Transportation Assistance,No
+P00150,Yes,Home Health Nursing,No
+P00151,No,None,No
+P00152,Yes,Medical Equipment Delivery,No
+P00153,Yes,Medical Equipment Delivery,Yes
+P00154,No,None,No
+P00155,No,None,No
+P00156,Yes,Medical Equipment Delivery,Yes
+P00157,No,None,Yes
+P00158,No,None,No
+P00159,Yes,Home Health Nursing,No
+P00160,No,None,No
+P00161,Yes,Home Health Nursing,Yes
+P00162,No,None,No
+P00163,No,None,Yes
+P00164,No,None,No
+P00165,Yes,Physical Therapy,No
+P00166,No,None,No
+P00167,Yes,Transportation Assistance,No
+P00168,Yes,Transportation Assistance,No
+P00169,Yes,Home Health Nursing,Yes
+P00170,No,None,No
+P00171,No,None,No
+P00172,Yes,Home Health Nursing,No
+P00173,No,None,No
+P00174,Yes,Transportation Assistance,No
+P00175,No,None,No
+P00176,Yes,Medical Equipment Delivery,No
+P00177,No,None,Yes
+P00178,Yes,Transportation Assistance,Yes
+P00179,No,None,No
+P00180,Yes,Home Health Nursing,No
+P00181,Yes,Physical Therapy,No
+P00182,Yes,Medical Equipment Delivery,No
+P00183,No,None,No
+P00184,No,None,Yes
+P00185,Yes,Medical Equipment Delivery,Yes
+P00186,No,None,Yes
+P00187,No,None,No
+P00188,No,None,No
+P00189,No,None,No
+P00190,Yes,Physical Therapy,Yes
+P00191,Yes,Home Health Nursing,No
+P00192,No,None,No
+P00193,No,None,No
+P00194,No,None,Yes
+P00195,Yes,Physical Therapy,No
+P00196,Yes,Home Health Nursing,Yes
+P00197,No,None,No
+P00198,No,None,No
+P00199,No,None,No
+P00200,No,None,No
+P00201,No,None,No
+P00202,Yes,Physical Therapy,No
+P00203,Yes,Transportation Assistance,No
+P00204,No,None,No
+P00205,No,None,No
+P00206,Yes,Physical Therapy,No
+P00207,Yes,Medical Equipment Delivery,Yes
+P00208,No,None,Yes
+P00209,Yes,Home Health Nursing,No
+P00210,Yes,Medical Equipment Delivery,No
+P00211,No,None,No
+P00212,No,None,No
+P00213,No,None,No
+P00214,Yes,Transportation Assistance,Yes
+P00215,No,None,No
+P00216,Yes,Home Health Nursing,Yes
+P00217,Yes,Home Health Nursing,Yes
+P00218,No,None,No
+P00219,No,None,No
+P00220,No,None,No
+P00221,No,None,No
+P00222,No,None,No
+P00223,Yes,Physical Therapy,No
+P00224,Yes,Home Health Nursing,Yes
+P00225,Yes,Medical Equipment Delivery,Yes
+P00226,Yes,Transportation Assistance,No
+P00227,No,None,No
+P00228,Yes,Physical Therapy,No
+P00229,No,None,No
+P00230,No,None,No
+P00231,No,None,Yes
+P00232,No,None,No
+P00233,No,None,No
+P00234,No,None,No
+P00235,Yes,Home Health Nursing,No
+P00236,No,None,No
+P00237,Yes,Physical Therapy,No
+P00238,Yes,Medical Equipment Delivery,No
+P00239,No,None,No
+P00240,Yes,Home Health Nursing,No
+P00241,No,None,No
+P00242,No,None,No
+P00243,No,None,No
+P00244,Yes,Physical Therapy,No
+P00245,Yes,Medical Equipment Delivery,No
+P00246,No,None,No
+P00247,No,None,No
+P00248,No,None,No
+P00249,No,None,No
+P00250,No,None,No
+P00251,Yes,Medical Equipment Delivery,No
+P00252,Yes,Home Health Nursing,Yes
+P00253,No,None,No
+P00254,Yes,Medical Equipment Delivery,Yes
+P00255,Yes,Home Health Nursing,No
+P00256,No,None,No
+P00257,No,None,No
+P00258,No,None,No
+P00259,No,None,No
+P00260,Yes,Home Health Nursing,Yes
+P00261,No,None,No
+P00262,No,None,No
+P00263,Yes,Transportation Assistance,Yes
+P00264,No,None,No
+P00265,No,None,No
+P00266,No,None,No
+P00267,No,None,No
+P00268,No,None,No
+P00269,Yes,Medical Equipment Delivery,Yes
+P00270,Yes,Home Health Nursing,No
+P00271,No,None,No
+P00272,No,None,No
+P00273,No,None,No
+P00274,No,None,No
+P00275,No,None,No
+P00276,No,None,No
+P00277,No,None,No
+P00278,No,None,No
+P00279,No,None,No
+P00280,No,None,No
+P00281,No,None,No
+P00282,Yes,Home Health Nursing,No
+P00283,Yes,Home Health Nursing,Yes
+P00284,Yes,Home Health Nursing,No
+P00285,No,None,No
+P00286,Yes,Home Health Nursing,No
+P00287,No,None,No
+P00288,No,None,No
+P00289,Yes,Home Health Nursing,No
+P00290,No,None,No
+P00291,Yes,Physical Therapy,No
+P00292,Yes,Medical Equipment Delivery,No
+P00293,No,None,No
+P00294,Yes,Medical Equipment Delivery,Yes
+P00295,Yes,Medical Equipment Delivery,Yes
+P00296,No,None,No
+P00297,No,None,No
+P00298,Yes,Home Health Nursing,No
+P00299,No,None,No
+P00300,Yes,Transportation Assistance,Yes
+P00301,Yes,Medical Equipment Delivery,No
+P00302,No,None,No
+P00303,No,None,No
+P00304,No,None,Yes
+P00305,No,None,No
+P00306,No,None,No
+P00307,No,None,No
+P00308,Yes,Medical Equipment Delivery,No
+P00309,No,None,Yes
+P00310,Yes,Medical Equipment Delivery,No
+P00311,No,None,No
+P00312,Yes,Transportation Assistance,No
+P00313,Yes,Physical Therapy,No
+P00314,No,None,No
+P00315,No,None,No
+P00316,No,None,Yes
+P00317,No,None,No
+P00318,Yes,Home Health Nursing,No
+P00319,Yes,Medical Equipment Delivery,No
+P00320,Yes,Medical Equipment Delivery,No
+P00321,No,None,No
+P00322,No,None,No
+P00323,No,None,No
+P00324,Yes,Medical Equipment Delivery,No
+P00325,No,None,No
+P00326,No,None,No
+P00327,No,None,No
+P00328,No,None,No
+P00329,No,None,No
+P00330,Yes,Physical Therapy,No
+P00331,Yes,Home Health Nursing,No
+P00332,No,None,No
+P00333,Yes,Physical Therapy,No
+P00334,Yes,Transportation Assistance,No
+P00335,Yes,Physical Therapy,Yes
+P00336,Yes,Physical Therapy,Yes
+P00337,No,None,No
+P00338,No,None,No
+P00339,No,None,No
+P00340,Yes,Home Health Nursing,No
+P00341,No,None,No
+P00342,No,None,No
+P00343,Yes,Physical Therapy,Yes
+P00344,No,None,No
+P00345,Yes,Transportation Assistance,No
+P00346,No,None,No
+P00347,No,None,No
+P00348,Yes,Medical Equipment Delivery,Yes
+P00349,Yes,Medical Equipment Delivery,Yes
+P00350,No,None,No
+P00351,No,None,No
+P00352,No,None,No
+P00353,No,None,No
+P00354,Yes,Physical Therapy,No
+P00355,Yes,Medical Equipment Delivery,No
+P00356,No,None,No
+P00357,Yes,Home Health Nursing,No
+P00358,No,None,No
+P00359,No,None,No
+P00360,No,None,Yes
+P00361,Yes,Medical Equipment Delivery,Yes
+P00362,No,None,No
+P00363,No,None,No
+P00364,No,None,No
+P00365,No,None,No
+P00366,Yes,Physical Therapy,No
+P00367,No,None,No
+P00368,No,None,No
+P00369,Yes,Physical Therapy,No
+P00370,Yes,Medical Equipment Delivery,No
+P00371,Yes,Transportation Assistance,No
+P00372,Yes,Home Health Nursing,No
+P00373,Yes,Medical Equipment Delivery,No
+P00374,No,None,No
+P00375,Yes,Home Health Nursing,No
+P00376,Yes,Physical Therapy,No
+P00377,No,None,No
+P00378,Yes,Home Health Nursing,No
+P00379,No,None,No
+P00380,Yes,Home Health Nursing,No
+P00381,Yes,Physical Therapy,No
+P00382,No,None,No
+P00383,No,None,No
+P00384,No,None,No
+P00385,No,None,No
+P00386,No,None,No
+P00387,Yes,Home Health Nursing,No
+P00388,Yes,Physical Therapy,No
+P00389,No,None,No
+P00390,No,None,No
+P00391,No,None,No
+P00392,No,None,No
+P00393,Yes,Transportation Assistance,No
+P00394,No,None,No
+P00395,Yes,Home Health Nursing,No
+P00396,No,None,No
+P00397,No,None,No
+P00398,No,None,No
+P00399,No,None,No
+P00400,No,None,No
+P00401,Yes,Medical Equipment Delivery,No
+P00402,No,None,No
+P00403,No,None,No
+P00404,No,None,No
+P00405,Yes,Physical Therapy,No
+P00406,No,None,No
+P00407,Yes,Medical Equipment Delivery,No
+P00408,Yes,Home Health Nursing,Yes
+P00409,No,None,No
+P00410,Yes,Home Health Nursing,Yes
+P00411,Yes,Home Health Nursing,No
+P00412,No,None,No
+P00413,No,None,No
+P00414,No,None,No
+P00415,No,None,No
+P00416,No,None,No
+P00417,Yes,Home Health Nursing,No
+P00418,Yes,Home Health Nursing,No
+P00419,No,None,No
+P00420,No,None,No
+P00421,No,None,No
+P00422,No,None,No
+P00423,Yes,Medical Equipment Delivery,No
+P00424,No,None,No
+P00425,Yes,Transportation Assistance,No
+P00426,No,None,No
+P00427,No,None,Yes
+P00428,No,None,No
+P00429,Yes,Medical Equipment Delivery,No
+P00430,Yes,Medical Equipment Delivery,No
+P00431,Yes,Home Health Nursing,Yes
+P00432,No,None,No
+P00433,No,None,No
+P00434,Yes,Home Health Nursing,No
+P00435,Yes,Home Health Nursing,No
+P00436,No,None,No
+P00437,Yes,Home Health Nursing,No
+P00438,No,None,No
+P00439,No,None,No
+P00440,Yes,Physical Therapy,No
+P00441,Yes,Physical Therapy,No
+P00442,No,None,No
+P00443,Yes,Physical Therapy,No
+P00444,Yes,Physical Therapy,No
+P00445,No,None,No
+P00446,No,None,No
+P00447,No,None,Yes
+P00448,No,None,No
+P00449,Yes,Medical Equipment Delivery,No
+P00450,Yes,Medical Equipment Delivery,No
+P00451,No,None,No
+P00452,No,None,No
+P00453,No,None,No
+P00454,No,None,No
+P00455,Yes,Home Health Nursing,Yes
+P00456,No,None,No
+P00457,Yes,Transportation Assistance,No
+P00458,No,None,No
+P00459,Yes,Transportation Assistance,No
+P00460,Yes,Home Health Nursing,No
+P00461,Yes,Physical Therapy,No
+P00462,No,None,No
+P00463,No,None,Yes
+P00464,No,None,No
+P00465,No,None,No
+P00466,Yes,Physical Therapy,No
+P00467,Yes,Transportation Assistance,No
+P00468,No,None,No
+P00469,Yes,Transportation Assistance,No
+P00470,No,None,Yes
+P00471,Yes,Home Health Nursing,No
+P00472,No,None,No
+P00473,Yes,Physical Therapy,Yes
+P00474,No,None,No
+P00475,No,None,No
+P00476,No,None,No
+P00477,Yes,Physical Therapy,No
+P00478,No,None,No
+P00479,No,None,No
+P00480,No,None,No
+P00481,No,None,No
+P00482,No,None,No
+P00483,No,None,No
+P00484,No,None,Yes
+P00485,No,None,No
+P00486,No,None,No
+P00487,Yes,Physical Therapy,No
+P00488,Yes,Home Health Nursing,No
+P00489,No,None,No
+P00490,No,None,No
+P00491,No,None,No
+P00492,No,None,No
+P00493,Yes,Transportation Assistance,No
+P00494,Yes,Medical Equipment Delivery,No
+P00495,No,None,No
+P00496,Yes,Medical Equipment Delivery,No
+P00497,No,None,No
+P00498,Yes,Transportation Assistance,Yes
+P00499,No,None,No
+P00500,No,None,No
+P00501,No,None,No
+P00502,No,None,No
+P00503,Yes,Medical Equipment Delivery,No
+P00504,No,None,No
+P00505,No,None,No
+P00506,Yes,Physical Therapy,No
+P00507,No,None,No
+P00508,No,None,No
+P00509,No,None,No
+P00510,No,None,No
+P00511,No,None,No
+P00512,No,None,No
+P00513,No,None,No
+P00514,No,None,No
+P00515,Yes,Medical Equipment Delivery,No
+P00516,Yes,Home Health Nursing,No
+P00517,Yes,Medical Equipment Delivery,No
+P00518,No,None,Yes
+P00519,No,None,No
+P00520,Yes,Home Health Nursing,No
+P00521,No,None,No
+P00522,Yes,Medical Equipment Delivery,Yes
+P00523,No,None,No
+P00524,No,None,No
+P00525,No,None,No
+P00526,No,None,No
+P00527,No,None,No
+P00528,Yes,Home Health Nursing,Yes
+P00529,Yes,Home Health Nursing,No
+P00530,No,None,No
+P00531,No,None,No
+P00532,No,None,Yes
+P00533,No,None,No
+P00534,No,None,No
+P00535,No,None,No
+P00536,No,None,No
+P00537,No,None,No
+P00538,Yes,Home Health Nursing,Yes
+P00539,No,None,Yes
+P00540,Yes,Home Health Nursing,No
+P00541,No,None,No
+P00542,No,None,Yes
+P00543,Yes,Medical Equipment Delivery,Yes
+P00544,No,None,Yes
+P00545,No,None,No
+P00546,Yes,Medical Equipment Delivery,No
+P00547,Yes,Physical Therapy,No
+P00548,No,None,No
+P00549,No,None,No
+P00550,No,None,No
+P00551,No,None,No
+P00552,No,None,No
+P00553,No,None,Yes
+P00554,No,None,No
+P00555,No,None,No
+P00556,No,None,No
+P00557,Yes,Home Health Nursing,No
+P00558,Yes,Home Health Nursing,No
+P00559,No,None,No
+P00560,No,None,No
+P00561,No,None,No
+P00562,Yes,Home Health Nursing,No
+P00563,Yes,Home Health Nursing,No
+P00564,Yes,Transportation Assistance,Yes
+P00565,Yes,Home Health Nursing,No
+P00566,No,None,No
+P00567,Yes,Physical Therapy,Yes
+P00568,No,None,No
+P00569,No,None,No
+P00570,Yes,Home Health Nursing,No
+P00571,No,None,No
+P00572,No,None,No
+P00573,Yes,Home Health Nursing,Yes
+P00574,No,None,No
+P00575,No,None,No
+P00576,No,None,No
+P00577,Yes,Physical Therapy,Yes
+P00578,No,None,No
+P00579,No,None,No
+P00580,Yes,Medical Equipment Delivery,Yes
+P00581,No,None,No
+P00582,No,None,No
+P00583,No,None,No
+P00584,Yes,Home Health Nursing,No
+P00585,No,None,No
+P00586,Yes,Home Health Nursing,No
+P00587,Yes,Physical Therapy,Yes
+P00588,Yes,Home Health Nursing,No
+P00589,Yes,Home Health Nursing,Yes
+P00590,Yes,Transportation Assistance,No
+P00591,Yes,Medical Equipment Delivery,Yes
+P00592,No,None,No
+P00593,Yes,Physical Therapy,No
+P00594,Yes,Physical Therapy,No
+P00595,No,None,No
+P00596,No,None,No
+P00597,No,None,No
+P00598,Yes,Physical Therapy,Yes
+P00599,Yes,Physical Therapy,No
+P00600,Yes,Medical Equipment Delivery,Yes
+P00601,Yes,Medical Equipment Delivery,No
+P00602,Yes,Home Health Nursing,No
+P00603,Yes,Physical Therapy,Yes
+P00604,Yes,Physical Therapy,No
+P00605,Yes,Transportation Assistance,No
+P00606,No,None,No
+P00607,Yes,Medical Equipment Delivery,Yes
+P00608,Yes,Physical Therapy,No
+P00609,No,None,Yes
+P00610,No,None,No
+P00611,Yes,Home Health Nursing,No
+P00612,No,None,No
+P00613,No,None,No
+P00614,Yes,Medical Equipment Delivery,No
+P00615,No,None,No
+P00616,No,None,No
+P00617,Yes,Home Health Nursing,No
+P00618,Yes,Home Health Nursing,No
+P00619,No,None,No
+P00620,No,None,No
+P00621,Yes,Home Health Nursing,No
+P00622,Yes,Medical Equipment Delivery,Yes
+P00623,Yes,Home Health Nursing,No
+P00624,No,None,No
+P00625,No,None,No
+P00626,Yes,Physical Therapy,No
+P00627,No,None,No
+P00628,No,None,No
+P00629,Yes,Transportation Assistance,No
+P00630,Yes,Home Health Nursing,Yes
+P00631,No,None,No
+P00632,No,None,Yes
+P00633,No,None,No
+P00634,No,None,No
+P00635,Yes,Physical Therapy,Yes
+P00636,No,None,No
+P00637,No,None,No
+P00638,Yes,Physical Therapy,No
+P00639,Yes,Home Health Nursing,No
+P00640,Yes,Medical Equipment Delivery,Yes
+P00641,Yes,Home Health Nursing,Yes
+P00642,Yes,Physical Therapy,No
+P00643,Yes,Physical Therapy,No
+P00644,Yes,Medical Equipment Delivery,Yes
+P00645,Yes,Medical Equipment Delivery,No
+P00646,No,None,Yes
+P00647,No,None,No
+P00648,No,None,No
+P00649,No,None,No
+P00650,No,None,No
+P00651,Yes,Home Health Nursing,No
+P00652,No,None,No
+P00653,No,None,No
+P00654,No,None,No
+P00655,No,None,No
+P00656,Yes,Home Health Nursing,No
+P00657,Yes,Medical Equipment Delivery,No
+P00658,Yes,Physical Therapy,No
+P00659,No,None,Yes
+P00660,No,None,No
+P00661,Yes,Medical Equipment Delivery,Yes
+P00662,No,None,No
+P00663,No,None,No
+P00664,Yes,Medical Equipment Delivery,Yes
+P00665,Yes,Medical Equipment Delivery,No
+P00666,Yes,Physical Therapy,No
+P00667,Yes,Home Health Nursing,No
+P00668,Yes,Medical Equipment Delivery,Yes
+P00669,Yes,Physical Therapy,No
+P00670,Yes,Home Health Nursing,Yes
+P00671,Yes,Transportation Assistance,No
+P00672,No,None,No
+P00673,Yes,Transportation Assistance,No
+P00674,No,None,No
+P00675,No,None,No
+P00676,No,None,No
+P00677,Yes,Physical Therapy,No
+P00678,Yes,Home Health Nursing,No
+P00679,No,None,No
+P00680,No,None,No
+P00681,No,None,Yes
+P00682,Yes,Physical Therapy,No
+P00683,Yes,Medical Equipment Delivery,No
+P00684,No,None,No
+P00685,No,None,Yes
+P00686,No,None,No
+P00687,No,None,No
+P00688,Yes,Transportation Assistance,Yes
+P00689,No,None,No
+P00690,Yes,Home Health Nursing,No
+P00691,Yes,Home Health Nursing,No
+P00692,No,None,Yes
+P00693,No,None,No
+P00694,Yes,Transportation Assistance,No
+P00695,Yes,Physical Therapy,Yes
+P00696,No,None,No
+P00697,Yes,Physical Therapy,Yes
+P00698,No,None,No
+P00699,Yes,Transportation Assistance,Yes
+P00700,No,None,No
+P00701,No,None,No
+P00702,Yes,Home Health Nursing,Yes
+P00703,Yes,Medical Equipment Delivery,No
+P00704,Yes,Home Health Nursing,Yes
+P00705,Yes,Physical Therapy,No
+P00706,No,None,No
+P00707,Yes,Medical Equipment Delivery,No
+P00708,No,None,No
+P00709,Yes,Physical Therapy,No
+P00710,No,None,No
+P00711,No,None,No
+P00712,No,None,No
+P00713,No,None,No
+P00714,No,None,No
+P00715,Yes,Transportation Assistance,No
+P00716,No,None,No
+P00717,No,None,No
+P00718,No,None,No
+P00719,Yes,Physical Therapy,No
+P00720,No,None,No
+P00721,No,None,Yes
+P00722,Yes,Home Health Nursing,No
+P00723,Yes,Home Health Nursing,No
+P00724,No,None,No
+P00725,No,None,No
+P00726,No,None,No
+P00727,Yes,Physical Therapy,No
+P00728,No,None,No
+P00729,Yes,Physical Therapy,No
+P00730,Yes,Home Health Nursing,No
+P00731,Yes,Physical Therapy,No
+P00732,No,None,No
+P00733,No,None,No
+P00734,No,None,No
+P00735,Yes,Physical Therapy,No
+P00736,No,None,No
+P00737,Yes,Medical Equipment Delivery,No
+P00738,No,None,No
+P00739,No,None,No
+P00740,Yes,Medical Equipment Delivery,No
+P00741,No,None,No
+P00742,Yes,Medical Equipment Delivery,No
+P00743,No,None,No
+P00744,No,None,No
+P00745,Yes,Home Health Nursing,No
+P00746,No,None,No
+P00747,Yes,Home Health Nursing,No
+P00748,No,None,Yes
+P00749,No,None,No
+P00750,No,None,No
+P00751,Yes,Medical Equipment Delivery,No
+P00752,No,None,No
+P00753,No,None,No
+P00754,Yes,Physical Therapy,No
+P00755,Yes,Home Health Nursing,Yes
+P00756,No,None,No
+P00757,No,None,No
+P00758,No,None,No
+P00759,No,None,No
+P00760,No,None,No
+P00761,Yes,Medical Equipment Delivery,No
+P00762,Yes,Medical Equipment Delivery,Yes
+P00763,Yes,Physical Therapy,No
+P00764,No,None,No
+P00765,Yes,Home Health Nursing,No
+P00766,No,None,No
+P00767,No,None,No
+P00768,No,None,No
+P00769,Yes,Medical Equipment Delivery,No
+P00770,No,None,No
+P00771,Yes,Physical Therapy,No
+P00772,No,None,No
+P00773,Yes,Medical Equipment Delivery,Yes
+P00774,Yes,Medical Equipment Delivery,Yes
+P00775,No,None,Yes
+P00776,Yes,Medical Equipment Delivery,Yes
+P00777,Yes,Physical Therapy,No
+P00778,No,None,No
+P00779,No,None,No
+P00780,No,None,No
+P00781,No,None,No
+P00782,No,None,No
+P00783,Yes,Home Health Nursing,No
+P00784,Yes,Medical Equipment Delivery,No
+P00785,Yes,Medical Equipment Delivery,No
+P00786,No,None,No
+P00787,No,None,No
+P00788,No,None,No
+P00789,No,None,No
+P00790,No,None,No
+P00791,Yes,Medical Equipment Delivery,Yes
+P00792,No,None,No
+P00793,No,None,Yes
+P00794,No,None,No
+P00795,Yes,Home Health Nursing,No
+P00796,No,None,No
+P00797,No,None,No
+P00798,No,None,No
+P00799,No,None,No
+P00800,No,None,No
+P00801,No,None,No
+P00802,Yes,Home Health Nursing,Yes
+P00803,No,None,No
+P00804,No,None,No
+P00805,No,None,No
+P00806,No,None,No
+P00807,No,None,No
+P00808,No,None,No
+P00809,No,None,No
+P00810,Yes,Transportation Assistance,No
+P00811,No,None,No
+P00812,No,None,No
+P00813,Yes,Medical Equipment Delivery,Yes
+P00814,No,None,No
+P00815,No,None,No
+P00816,No,None,No
+P00817,No,None,No
+P00818,Yes,Transportation Assistance,No
+P00819,Yes,Medical Equipment Delivery,No
+P00820,Yes,Physical Therapy,No
+P00821,No,None,No
+P00822,Yes,Medical Equipment Delivery,No
+P00823,Yes,Transportation Assistance,No
+P00824,Yes,Physical Therapy,Yes
+P00825,No,None,No
+P00826,No,None,No
+P00827,Yes,Medical Equipment Delivery,Yes
+P00828,Yes,Home Health Nursing,No
+P00829,No,None,No
+P00830,No,None,No
+P00831,Yes,Physical Therapy,No
+P00832,No,None,No
+P00833,Yes,Medical Equipment Delivery,No
+P00834,Yes,Home Health Nursing,No
+P00835,No,None,No
+P00836,No,None,No
+P00837,No,None,No
+P00838,Yes,Home Health Nursing,No
+P00839,No,None,No
+P00840,No,None,No
+P00841,Yes,Home Health Nursing,No
+P00842,No,None,No
+P00843,Yes,Home Health Nursing,No
+P00844,No,None,No
+P00845,Yes,Home Health Nursing,No
+P00846,No,None,No
+P00847,Yes,Physical Therapy,No
+P00848,No,None,No
+P00849,No,None,No
+P00850,No,None,Yes
+P00851,Yes,Transportation Assistance,No
+P00852,No,None,No
+P00853,Yes,Physical Therapy,No
+P00854,No,None,No
+P00855,Yes,Home Health Nursing,No
+P00856,Yes,Home Health Nursing,No
+P00857,Yes,Medical Equipment Delivery,No
+P00858,No,None,No
+P00859,No,None,No
+P00860,Yes,Physical Therapy,No
+P00861,No,None,No
+P00862,No,None,Yes
+P00863,No,None,No
+P00864,No,None,No
+P00865,No,None,No
+P00866,No,None,Yes
+P00867,Yes,Medical Equipment Delivery,No
+P00868,Yes,Medical Equipment Delivery,No
+P00869,No,None,No
+P00870,No,None,Yes
+P00871,Yes,Medical Equipment Delivery,No
+P00872,Yes,Home Health Nursing,No
+P00873,No,None,No
+P00874,No,None,No
+P00875,Yes,Medical Equipment Delivery,No
+P00876,Yes,Home Health Nursing,No
+P00877,No,None,Yes
+P00878,No,None,Yes
+P00879,Yes,Transportation Assistance,No
+P00880,Yes,Medical Equipment Delivery,Yes
+P00881,Yes,Home Health Nursing,Yes
+P00882,No,None,No
+P00883,Yes,Home Health Nursing,No
+P00884,Yes,Home Health Nursing,Yes
+P00885,No,None,No
+P00886,Yes,Medical Equipment Delivery,Yes
+P00887,No,None,Yes
+P00888,Yes,Home Health Nursing,Yes
+P00889,Yes,Physical Therapy,No
+P00890,Yes,Home Health Nursing,Yes
+P00891,No,None,Yes
+P00892,No,None,No
+P00893,No,None,No
+P00894,Yes,Medical Equipment Delivery,Yes
+P00895,No,None,No
+P00896,Yes,Medical Equipment Delivery,Yes
+P00897,Yes,Medical Equipment Delivery,No
+P00898,No,None,No
+P00899,Yes,Medical Equipment Delivery,No
+P00900,Yes,Home Health Nursing,No
+P00901,Yes,Home Health Nursing,No
+P00902,Yes,Medical Equipment Delivery,Yes
+P00903,Yes,Physical Therapy,No
+P00904,No,None,Yes
+P00905,No,None,No
+P00906,No,None,No
+P00907,No,None,No
+P00908,Yes,Physical Therapy,No
+P00909,Yes,Home Health Nursing,No
+P00910,Yes,Home Health Nursing,No
+P00911,No,None,No
+P00912,Yes,Home Health Nursing,No
+P00913,No,None,No
+P00914,No,None,No
+P00915,No,None,No
+P00916,No,None,No
+P00917,Yes,Transportation Assistance,No
+P00918,No,None,No
+P00919,No,None,Yes
+P00920,Yes,Home Health Nursing,No
+P00921,No,None,No
+P00922,No,None,No
+P00923,No,None,No
+P00924,No,None,No
+P00925,No,None,No
+P00926,Yes,Physical Therapy,No
+P00927,Yes,Home Health Nursing,No
+P00928,No,None,No
+P00929,No,None,Yes
+P00930,Yes,Medical Equipment Delivery,Yes
+P00931,Yes,Home Health Nursing,No
+P00932,No,None,No
+P00933,No,None,No
+P00934,No,None,Yes
+P00935,Yes,Transportation Assistance,No
+P00936,Yes,Transportation Assistance,No
+P00937,Yes,Home Health Nursing,No
+P00938,No,None,No
+P00939,Yes,Transportation Assistance,No
+P00940,No,None,No
+P00941,Yes,Transportation Assistance,No
+P00942,No,None,No
+P00943,No,None,No
+P00944,No,None,No
+P00945,Yes,Medical Equipment Delivery,No
+P00946,Yes,Medical Equipment Delivery,Yes
+P00947,Yes,Home Health Nursing,No
+P00948,No,None,No
+P00949,No,None,No
+P00950,No,None,No
+P00951,No,None,No
+P00952,No,None,No
+P00953,Yes,Physical Therapy,No
+P00954,No,None,No
+P00955,No,None,No
+P00956,Yes,Home Health Nursing,Yes
+P00957,No,None,No
+P00958,Yes,Home Health Nursing,Yes
+P00959,Yes,Transportation Assistance,No
+P00960,No,None,No
+P00961,Yes,Home Health Nursing,Yes
+P00962,No,None,No
+P00963,Yes,Medical Equipment Delivery,Yes
+P00964,Yes,Medical Equipment Delivery,Yes
+P00965,Yes,Transportation Assistance,No
+P00966,Yes,Transportation Assistance,No
+P00967,No,None,No
+P00968,Yes,Home Health Nursing,No
+P00969,No,None,Yes
+P00970,No,None,Yes
+P00971,No,None,No
+P00972,No,None,No
+P00973,No,None,No
+P00974,Yes,Home Health Nursing,Yes
+P00975,Yes,Physical Therapy,No
+P00976,Yes,Home Health Nursing,No
+P00977,No,None,No
+P00978,Yes,Home Health Nursing,No
+P00979,No,None,No
+P00980,No,None,No
+P00981,Yes,Physical Therapy,No
+P00982,No,None,No
+P00983,Yes,Medical Equipment Delivery,No
+P00984,Yes,Physical Therapy,No
+P00985,No,None,No
+P00986,No,None,No
+P00987,No,None,No
+P00988,No,None,No
+P00989,Yes,Home Health Nursing,No
+P00990,No,None,No
+P00991,No,None,No
+P00992,No,None,No
+P00993,Yes,Medical Equipment Delivery,No
+P00994,No,None,Yes
+P00995,Yes,Home Health Nursing,No
+P00996,Yes,Home Health Nursing,No
+P00997,No,None,No
+P00998,Yes,Medical Equipment Delivery,No
+P00999,No,None,No
+P01000,No,None,No
+P01001,Yes,Medical Equipment Delivery,No
+P01002,No,None,No
+P01003,No,None,No
+P01004,No,None,No
+P01005,No,None,No
+P01006,No,None,No
+P01007,No,None,No
+P01008,No,None,No
+P01009,Yes,Medical Equipment Delivery,No
+P01010,No,None,No
+P01011,Yes,Home Health Nursing,No
+P01012,No,None,No
+P01013,No,None,No
+P01014,Yes,Medical Equipment Delivery,No
+P01015,No,None,No
+P01016,No,None,Yes
+P01017,Yes,Medical Equipment Delivery,Yes
+P01018,No,None,No
+P01019,No,None,No
+P01020,Yes,Physical Therapy,No
+P01021,No,None,No
+P01022,Yes,Medical Equipment Delivery,Yes
+P01023,No,None,No
+P01024,No,None,No
+P01025,No,None,No
+P01026,No,None,No
+P01027,No,None,No
+P01028,No,None,No
+P01029,Yes,Transportation Assistance,No
+P01030,No,None,No
+P01031,Yes,Physical Therapy,No
+P01032,No,None,Yes
+P01033,Yes,Physical Therapy,No
+P01034,Yes,Transportation Assistance,No
+P01035,Yes,Medical Equipment Delivery,Yes
+P01036,No,None,No
+P01037,Yes,Physical Therapy,No
+P01038,No,None,No
+P01039,Yes,Medical Equipment Delivery,No
+P01040,Yes,Physical Therapy,No
+P01041,No,None,No
+P01042,No,None,No
+P01043,Yes,Home Health Nursing,No
+P01044,No,None,No
+P01045,No,None,No
+P01046,No,None,No
+P01047,Yes,Physical Therapy,No
+P01048,Yes,Transportation Assistance,No
+P01049,No,None,No
+P01050,Yes,Transportation Assistance,Yes
+P01051,No,None,No
+P01052,No,None,No
+P01053,No,None,Yes
+P01054,No,None,No
+P01055,No,None,No
+P01056,Yes,Home Health Nursing,No
+P01057,No,None,No
+P01058,No,None,No
+P01059,No,None,No
+P01060,No,None,Yes
+P01061,No,None,No
+P01062,No,None,No
+P01063,No,None,No
+P01064,No,None,No
+P01065,No,None,No
+P01066,No,None,No
+P01067,Yes,Physical Therapy,No
+P01068,Yes,Home Health Nursing,Yes
+P01069,Yes,Transportation Assistance,No
+P01070,Yes,Transportation Assistance,No
+P01071,Yes,Medical Equipment Delivery,No
+P01072,Yes,Medical Equipment Delivery,Yes
+P01073,Yes,Medical Equipment Delivery,Yes
+P01074,Yes,Physical Therapy,No
+P01075,No,None,No
+P01076,No,None,No
+P01077,Yes,Home Health Nursing,No
+P01078,No,None,No
+P01079,Yes,Physical Therapy,No
+P01080,No,None,No
+P01081,No,None,No
+P01082,Yes,Medical Equipment Delivery,No
+P01083,No,None,No
+P01084,No,None,Yes
+P01085,No,None,Yes
+P01086,No,None,No
+P01087,No,None,No
+P01088,Yes,Medical Equipment Delivery,Yes
+P01089,No,None,Yes
+P01090,Yes,Physical Therapy,Yes
+P01091,No,None,No
+P01092,No,None,No
+P01093,No,None,No
+P01094,No,None,No
+P01095,Yes,Transportation Assistance,No
+P01096,Yes,Home Health Nursing,Yes
+P01097,Yes,Physical Therapy,No
+P01098,Yes,Medical Equipment Delivery,Yes
+P01099,No,None,No
+P01100,Yes,Medical Equipment Delivery,No
+P01101,Yes,Medical Equipment Delivery,No
+P01102,No,None,No
+P01103,No,None,No
+P01104,No,None,No
+P01105,No,None,No
+P01106,Yes,Home Health Nursing,No
+P01107,Yes,Home Health Nursing,No
+P01108,No,None,No
+P01109,No,None,No
+P01110,Yes,Medical Equipment Delivery,No
+P01111,No,None,No
+P01112,Yes,Physical Therapy,No
+P01113,Yes,Home Health Nursing,No
+P01114,No,None,No
+P01115,No,None,No
+P01116,No,None,No
+P01117,Yes,Medical Equipment Delivery,Yes
+P01118,No,None,No
+P01119,Yes,Physical Therapy,No
+P01120,Yes,Medical Equipment Delivery,No
+P01121,No,None,Yes
+P01122,No,None,No
+P01123,No,None,Yes
+P01124,No,None,No
+P01125,No,None,No
+P01126,No,None,No
+P01127,Yes,Medical Equipment Delivery,Yes
+P01128,No,None,No
+P01129,Yes,Home Health Nursing,Yes
+P01130,Yes,Home Health Nursing,No
+P01131,No,None,No
+P01132,No,None,No
+P01133,Yes,Medical Equipment Delivery,No
+P01134,Yes,Medical Equipment Delivery,No
+P01135,No,None,No
+P01136,Yes,Medical Equipment Delivery,Yes
+P01137,No,None,No
+P01138,No,None,No
+P01139,No,None,Yes
+P01140,No,None,No
+P01141,No,None,No
+P01142,Yes,Medical Equipment Delivery,No
+P01143,No,None,Yes
+P01144,No,None,No
+P01145,Yes,Medical Equipment Delivery,No
+P01146,No,None,No
+P01147,No,None,No
+P01148,No,None,No
+P01149,No,None,No
+P01150,No,None,No
+P01151,No,None,No
+P01152,No,None,No
+P01153,No,None,No
+P01154,No,None,No
+P01155,No,None,No
+P01156,No,None,No
+P01157,Yes,Transportation Assistance,No
+P01158,No,None,No
+P01159,No,None,No
+P01160,Yes,Physical Therapy,No
+P01161,No,None,No
+P01162,Yes,Physical Therapy,No
+P01163,Yes,Physical Therapy,No
+P01164,No,None,No
+P01165,Yes,Home Health Nursing,No
+P01166,No,None,No
+P01167,No,None,No
+P01168,No,None,No
+P01169,Yes,Physical Therapy,No
+P01170,Yes,Home Health Nursing,No
+P01171,No,None,No
+P01172,No,None,No
+P01173,No,None,No
+P01174,Yes,Transportation Assistance,No
+P01175,No,None,No
+P01176,No,None,No
+P01177,No,None,No
+P01178,Yes,Physical Therapy,No
+P01179,No,None,No
+P01180,No,None,Yes
+P01181,No,None,No
+P01182,Yes,Physical Therapy,No
+P01183,No,None,No
+P01184,No,None,No
+P01185,Yes,Physical Therapy,No
+P01186,No,None,No
+P01187,No,None,No
+P01188,Yes,Home Health Nursing,No
+P01189,Yes,Home Health Nursing,No
+P01190,No,None,No
+P01191,Yes,Physical Therapy,No
+P01192,No,None,No
+P01193,Yes,Home Health Nursing,Yes
+P01194,No,None,No
+P01195,Yes,Medical Equipment Delivery,No
+P01196,No,None,No
+P01197,No,None,No
+P01198,No,None,No
+P01199,No,None,No
+P01200,Yes,Transportation Assistance,No
+P01201,No,None,No
+P01202,Yes,Transportation Assistance,No
+P01203,Yes,Medical Equipment Delivery,No
+P01204,Yes,Home Health Nursing,No
+P01205,No,None,No
+P01206,No,None,No
+P01207,No,None,No
+P01208,No,None,No
+P01209,Yes,Transportation Assistance,No
+P01210,No,None,Yes
+P01211,No,None,Yes
+P01212,No,None,No
+P01213,Yes,Transportation Assistance,No
+P01214,No,None,No
+P01215,No,None,No
+P01216,Yes,Home Health Nursing,No
+P01217,Yes,Medical Equipment Delivery,Yes
+P01218,No,None,No
+P01219,No,None,No
+P01220,Yes,Home Health Nursing,No
+P01221,No,None,No
+P01222,Yes,Medical Equipment Delivery,No
+P01223,No,None,No
+P01224,No,None,No
+P01225,No,None,No
+P01226,No,None,No
+P01227,Yes,Transportation Assistance,No
+P01228,Yes,Home Health Nursing,Yes
+P01229,No,None,No
+P01230,No,None,Yes
+P01231,No,None,No
+P01232,Yes,Transportation Assistance,No
+P01233,Yes,Medical Equipment Delivery,Yes
+P01234,Yes,Transportation Assistance,No
+P01235,No,None,Yes
+P01236,Yes,Physical Therapy,No
+P01237,No,None,No
+P01238,No,None,No
+P01239,No,None,No
+P01240,Yes,Medical Equipment Delivery,No
+P01241,No,None,Yes
+P01242,No,None,No
+P01243,No,None,No
+P01244,No,None,No
+P01245,No,None,No
+P01246,No,None,No
+P01247,Yes,Home Health Nursing,No
+P01248,Yes,Home Health Nursing,Yes
+P01249,No,None,No
+P01250,No,None,No
+P01251,No,None,No
+P01252,No,None,No
+P01253,Yes,Home Health Nursing,No
+P01254,Yes,Transportation Assistance,No
+P01255,No,None,No
+P01256,No,None,No
+P01257,Yes,Medical Equipment Delivery,No
+P01258,No,None,No
+P01259,Yes,Transportation Assistance,Yes
+P01260,No,None,No
+P01261,Yes,Transportation Assistance,No
+P01262,No,None,No
+P01263,Yes,Home Health Nursing,No
+P01264,No,None,No
+P01265,Yes,Physical Therapy,No
+P01266,Yes,Home Health Nursing,No
+P01267,Yes,Home Health Nursing,No
+P01268,No,None,No
+P01269,No,None,Yes
+P01270,Yes,Home Health Nursing,No
+P01271,No,None,Yes
+P01272,No,None,No
+P01273,No,None,No
+P01274,Yes,Physical Therapy,No
+P01275,No,None,No
+P01276,Yes,Home Health Nursing,No
+P01277,Yes,Home Health Nursing,No
+P01278,No,None,No
+P01279,Yes,Home Health Nursing,No
+P01280,No,None,No
+P01281,No,None,No
+P01282,No,None,No
+P01283,No,None,No
+P01284,Yes,Home Health Nursing,No
+P01285,Yes,Transportation Assistance,No
+P01286,No,None,No
+P01287,Yes,Medical Equipment Delivery,Yes
+P01288,Yes,Transportation Assistance,No
+P01289,Yes,Physical Therapy,No
+P01290,Yes,Home Health Nursing,No
+P01291,Yes,Medical Equipment Delivery,No
+P01292,Yes,Home Health Nursing,No
+P01293,No,None,No
+P01294,No,None,No
+P01295,No,None,No
+P01296,Yes,Home Health Nursing,No
+P01297,Yes,Home Health Nursing,No
+P01298,Yes,Home Health Nursing,Yes
+P01299,No,None,No
+P01300,No,None,No
+P01301,Yes,Home Health Nursing,No
+P01302,No,None,No
+P01303,Yes,Physical Therapy,No
+P01304,No,None,No
+P01305,No,None,No
+P01306,No,None,No
+P01307,No,None,No
+P01308,No,None,No
+P01309,Yes,Medical Equipment Delivery,No
+P01310,No,None,No
+P01311,Yes,Home Health Nursing,Yes
+P01312,No,None,No
+P01313,No,None,No
+P01314,No,None,No
+P01315,No,None,Yes
+P01316,No,None,No
+P01317,No,None,No
+P01318,No,None,No
+P01319,Yes,Home Health Nursing,No
+P01320,Yes,Medical Equipment Delivery,No
+P01321,Yes,Home Health Nursing,No
+P01322,Yes,Home Health Nursing,Yes
+P01323,No,None,No
+P01324,Yes,Transportation Assistance,Yes
+P01325,No,None,No
+P01326,Yes,Home Health Nursing,No
+P01327,Yes,Home Health Nursing,No
+P01328,No,None,No
+P01329,No,None,No
+P01330,No,None,No
+P01331,No,None,No
+P01332,No,None,Yes
+P01333,Yes,Physical Therapy,No
+P01334,No,None,No
+P01335,No,None,No
+P01336,No,None,No
+P01337,Yes,Home Health Nursing,Yes
+P01338,No,None,No
+P01339,Yes,Physical Therapy,No
+P01340,Yes,Medical Equipment Delivery,No
+P01341,Yes,Home Health Nursing,No
+P01342,No,None,Yes
+P01343,No,None,Yes
+P01344,No,None,Yes
+P01345,No,None,No
+P01346,No,None,No
+P01347,Yes,Physical Therapy,No
+P01348,Yes,Physical Therapy,No
+P01349,No,None,No
+P01350,Yes,Home Health Nursing,No
+P01351,No,None,No
+P01352,No,None,No
+P01353,No,None,Yes
+P01354,No,None,No
+P01355,No,None,No
+P01356,No,None,No
+P01357,No,None,No
+P01358,No,None,No
+P01359,Yes,Medical Equipment Delivery,Yes
+P01360,No,None,No
+P01361,No,None,No
+P01362,Yes,Home Health Nursing,Yes
+P01363,No,None,No
+P01364,No,None,No
+P01365,No,None,No
+P01366,Yes,Physical Therapy,No
+P01367,No,None,No
+P01368,No,None,Yes
+P01369,Yes,Home Health Nursing,No
+P01370,Yes,Physical Therapy,No
+P01371,No,None,No
+P01372,Yes,Home Health Nursing,Yes
+P01373,No,None,No
+P01374,No,None,No
+P01375,Yes,Medical Equipment Delivery,No
+P01376,No,None,No
+P01377,No,None,Yes
+P01378,No,None,No
+P01379,Yes,Home Health Nursing,No
+P01380,No,None,No
+P01381,Yes,Physical Therapy,No
+P01382,Yes,Physical Therapy,Yes
+P01383,No,None,No
+P01384,Yes,Medical Equipment Delivery,No
+P01385,No,None,No
+P01386,Yes,Physical Therapy,No
+P01387,No,None,No
+P01388,Yes,Medical Equipment Delivery,No
+P01389,No,None,Yes
+P01390,No,None,No
+P01391,Yes,Medical Equipment Delivery,No
+P01392,Yes,Transportation Assistance,No
+P01393,Yes,Home Health Nursing,No
+P01394,No,None,No
+P01395,Yes,Physical Therapy,No
+P01396,No,None,No
+P01397,No,None,No
+P01398,Yes,Medical Equipment Delivery,Yes
+P01399,No,None,No
+P01400,No,None,No
+P01401,Yes,Transportation Assistance,Yes
+P01402,Yes,Transportation Assistance,No
+P01403,Yes,Physical Therapy,No
+P01404,No,None,No
+P01405,No,None,No
+P01406,No,None,No
+P01407,No,None,Yes
+P01408,No,None,No
+P01409,No,None,No
+P01410,No,None,No
+P01411,Yes,Home Health Nursing,No
+P01412,Yes,Physical Therapy,No
+P01413,Yes,Medical Equipment Delivery,No
+P01414,Yes,Physical Therapy,No
+P01415,No,None,No
+P01416,No,None,No
+P01417,Yes,Physical Therapy,Yes
+P01418,Yes,Medical Equipment Delivery,No
+P01419,No,None,No
+P01420,No,None,No
+P01421,Yes,Physical Therapy,Yes
+P01422,No,None,No
+P01423,Yes,Transportation Assistance,No
+P01424,Yes,Physical Therapy,No
+P01425,No,None,No
+P01426,No,None,Yes
+P01427,Yes,Home Health Nursing,No
+P01428,No,None,No
+P01429,No,None,No
+P01430,No,None,No
+P01431,No,None,No
+P01432,No,None,Yes
+P01433,No,None,No
+P01434,No,None,No
+P01435,Yes,Physical Therapy,Yes
+P01436,Yes,Medical Equipment Delivery,Yes
+P01437,Yes,Home Health Nursing,No
+P01438,No,None,No
+P01439,Yes,Home Health Nursing,No
+P01440,No,None,No
+P01441,No,None,No
+P01442,Yes,Transportation Assistance,No
+P01443,No,None,Yes
+P01444,No,None,No
+P01445,No,None,No
+P01446,Yes,Home Health Nursing,No
+P01447,No,None,No
+P01448,No,None,No
+P01449,No,None,No
+P01450,No,None,No
+P01451,No,None,No
+P01452,No,None,No
+P01453,No,None,No
+P01454,No,None,No
+P01455,Yes,Physical Therapy,No
+P01456,No,None,No
+P01457,No,None,No
+P01458,No,None,Yes
+P01459,Yes,Physical Therapy,No
+P01460,No,None,No
+P01461,Yes,Physical Therapy,No
+P01462,No,None,No
+P01463,Yes,Medical Equipment Delivery,No
+P01464,No,None,No
+P01465,No,None,Yes
+P01466,Yes,Home Health Nursing,No
+P01467,No,None,No
+P01468,No,None,No
+P01469,No,None,No
+P01470,No,None,No
+P01471,No,None,No
+P01472,No,None,Yes
+P01473,No,None,No
+P01474,No,None,No
+P01475,Yes,Physical Therapy,No
+P01476,No,None,No
+P01477,No,None,No
+P01478,No,None,No
+P01479,No,None,No
+P01480,No,None,No
+P01481,No,None,No
+P01482,Yes,Physical Therapy,No
+P01483,No,None,No
+P01484,Yes,Medical Equipment Delivery,No
+P01485,Yes,Home Health Nursing,Yes
+P01486,Yes,Physical Therapy,No
+P01487,Yes,Home Health Nursing,Yes
+P01488,No,None,No
+P01489,Yes,Home Health Nursing,No
+P01490,No,None,No
+P01491,Yes,Home Health Nursing,No
+P01492,Yes,Home Health Nursing,No
+P01493,Yes,Medical Equipment Delivery,No
+P01494,Yes,Home Health Nursing,No
+P01495,No,None,No
+P01496,No,None,No
+P01497,No,None,No
+P01498,No,None,No
+P01499,Yes,Transportation Assistance,No
+P01500,No,None,No
+P01501,No,None,No
+P01502,No,None,No
+P01503,Yes,Transportation Assistance,No
+P01504,Yes,Physical Therapy,Yes
+P01505,Yes,Home Health Nursing,No
+P01506,Yes,Physical Therapy,No
+P01507,No,None,No
+P01508,No,None,No
+P01509,No,None,No
+P01510,No,None,No
+P01511,No,None,No
+P01512,No,None,No
+P01513,No,None,No
+P01514,Yes,Medical Equipment Delivery,Yes
+P01515,Yes,Physical Therapy,Yes
+P01516,Yes,Home Health Nursing,Yes
+P01517,No,None,Yes
+P01518,No,None,No
+P01519,Yes,Physical Therapy,No
+P01520,No,None,No
+P01521,Yes,Medical Equipment Delivery,Yes
+P01522,No,None,No
+P01523,Yes,Medical Equipment Delivery,Yes
+P01524,Yes,Home Health Nursing,Yes
+P01525,No,None,No
+P01526,Yes,Medical Equipment Delivery,No
+P01527,Yes,Home Health Nursing,No
+P01528,Yes,Home Health Nursing,No
+P01529,No,None,No
+P01530,No,None,No
+P01531,Yes,Transportation Assistance,No
+P01532,No,None,No
+P01533,No,None,No
+P01534,Yes,Home Health Nursing,No
+P01535,No,None,Yes
+P01536,Yes,Home Health Nursing,No
+P01537,Yes,Home Health Nursing,No
+P01538,No,None,No
+P01539,Yes,Transportation Assistance,No
+P01540,No,None,No
+P01541,No,None,No
+P01542,Yes,Medical Equipment Delivery,No
+P01543,No,None,No
+P01544,Yes,Medical Equipment Delivery,No
+P01545,No,None,No
+P01546,No,None,No
+P01547,No,None,No
+P01548,No,None,No
+P01549,Yes,Medical Equipment Delivery,Yes
+P01550,No,None,No
+P01551,No,None,No
+P01552,No,None,No
+P01553,No,None,No
+P01554,No,None,No
+P01555,Yes,Home Health Nursing,No
+P01556,Yes,Physical Therapy,No
+P01557,No,None,No
+P01558,No,None,No
+P01559,No,None,No
+P01560,No,None,No
+P01561,Yes,Physical Therapy,No
+P01562,Yes,Home Health Nursing,No
+P01563,No,None,No
+P01564,Yes,Physical Therapy,Yes
+P01565,No,None,No
+P01566,No,None,No
+P01567,No,None,No
+P01568,Yes,Transportation Assistance,No
+P01569,No,None,No
+P01570,No,None,No
+P01571,No,None,Yes
+P01572,Yes,Home Health Nursing,No
+P01573,No,None,No
+P01574,No,None,No
+P01575,Yes,Home Health Nursing,No
+P01576,Yes,Home Health Nursing,Yes
+P01577,Yes,Home Health Nursing,No
+P01578,No,None,No
+P01579,No,None,No
+P01580,No,None,Yes
+P01581,Yes,Transportation Assistance,Yes
+P01582,Yes,Physical Therapy,No
+P01583,No,None,No
+P01584,No,None,No
+P01585,No,None,No
+P01586,Yes,Physical Therapy,No
+P01587,No,None,No
+P01588,No,None,No
+P01589,No,None,No
+P01590,No,None,No
+P01591,No,None,No
+P01592,No,None,No
+P01593,Yes,Medical Equipment Delivery,Yes
+P01594,Yes,Home Health Nursing,No
+P01595,No,None,No
+P01596,No,None,No
+P01597,Yes,Physical Therapy,No
+P01598,Yes,Physical Therapy,Yes
+P01599,Yes,Physical Therapy,No
+P01600,No,None,No
+P01601,Yes,Transportation Assistance,No
+P01602,Yes,Medical Equipment Delivery,Yes
+P01603,Yes,Physical Therapy,No
+P01604,Yes,Medical Equipment Delivery,No
+P01605,Yes,Home Health Nursing,No
+P01606,No,None,No
+P01607,Yes,Home Health Nursing,Yes
+P01608,No,None,No
+P01609,Yes,Home Health Nursing,No
+P01610,No,None,No
+P01611,No,None,Yes
+P01612,No,None,Yes
+P01613,No,None,No
+P01614,Yes,Home Health Nursing,No
+P01615,Yes,Physical Therapy,No
+P01616,No,None,No
+P01617,No,None,No
+P01618,No,None,No
+P01619,No,None,No
+P01620,No,None,No
+P01621,No,None,No
+P01622,Yes,Medical Equipment Delivery,No
+P01623,No,None,No
+P01624,No,None,Yes
+P01625,Yes,Transportation Assistance,No
+P01626,No,None,No
+P01627,Yes,Physical Therapy,No
+P01628,No,None,No
+P01629,Yes,Physical Therapy,No
+P01630,No,None,No
+P01631,No,None,No
+P01632,Yes,Home Health Nursing,No
+P01633,No,None,No
+P01634,No,None,No
+P01635,No,None,No
+P01636,Yes,Home Health Nursing,No
+P01637,Yes,Physical Therapy,No
+P01638,Yes,Physical Therapy,No
+P01639,No,None,Yes
+P01640,No,None,Yes
+P01641,No,None,No
+P01642,No,None,No
+P01643,No,None,No
+P01644,No,None,No
+P01645,Yes,Medical Equipment Delivery,No
+P01646,No,None,No
+P01647,Yes,Home Health Nursing,Yes
+P01648,No,None,No
+P01649,No,None,No
+P01650,No,None,No
+P01651,Yes,Home Health Nursing,No
+P01652,Yes,Physical Therapy,No
+P01653,Yes,Home Health Nursing,Yes
+P01654,Yes,Home Health Nursing,Yes
+P01655,Yes,Medical Equipment Delivery,Yes
+P01656,No,None,No
+P01657,No,None,No
+P01658,Yes,Home Health Nursing,No
+P01659,Yes,Medical Equipment Delivery,Yes
+P01660,No,None,No
+P01661,No,None,No
+P01662,No,None,No
+P01663,No,None,No
+P01664,No,None,No
+P01665,No,None,No
+P01666,No,None,No
+P01667,Yes,Home Health Nursing,Yes
+P01668,No,None,No
+P01669,Yes,Home Health Nursing,No
+P01670,No,None,No
+P01671,Yes,Physical Therapy,No
+P01672,No,None,No
+P01673,No,None,No
+P01674,No,None,No
+P01675,No,None,No
+P01676,Yes,Medical Equipment Delivery,No
+P01677,Yes,Physical Therapy,No
+P01678,No,None,No
+P01679,Yes,Medical Equipment Delivery,No
+P01680,No,None,No
+P01681,Yes,Home Health Nursing,No
+P01682,No,None,No
+P01683,No,None,No
+P01684,No,None,No
+P01685,Yes,Medical Equipment Delivery,No
+P01686,No,None,No
+P01687,No,None,No
+P01688,No,None,No
+P01689,No,None,No
+P01690,No,None,No
+P01691,Yes,Home Health Nursing,No
+P01692,No,None,No
+P01693,Yes,Medical Equipment Delivery,No
+P01694,Yes,Physical Therapy,No
+P01695,Yes,Transportation Assistance,No
+P01696,Yes,Physical Therapy,No
+P01697,Yes,Home Health Nursing,No
+P01698,Yes,Home Health Nursing,No
+P01699,No,None,No
+P01700,No,None,No
+P01701,No,None,Yes
+P01702,No,None,No
+P01703,Yes,Medical Equipment Delivery,No
+P01704,No,None,No
+P01705,No,None,No
+P01706,Yes,Physical Therapy,No
+P01707,No,None,No
+P01708,Yes,Medical Equipment Delivery,No
+P01709,No,None,No
+P01710,No,None,No
+P01711,Yes,Home Health Nursing,No
+P01712,Yes,Home Health Nursing,Yes
+P01713,No,None,No
+P01714,No,None,No
+P01715,Yes,Home Health Nursing,No
+P01716,No,None,No
+P01717,Yes,Transportation Assistance,Yes
+P01718,No,None,No
+P01719,No,None,No
+P01720,Yes,Medical Equipment Delivery,No
+P01721,Yes,Transportation Assistance,No
+P01722,Yes,Home Health Nursing,No
+P01723,Yes,Medical Equipment Delivery,No
+P01724,Yes,Medical Equipment Delivery,No
+P01725,No,None,No
+P01726,Yes,Home Health Nursing,No
+P01727,No,None,Yes
+P01728,No,None,No
+P01729,No,None,No
+P01730,No,None,No
+P01731,Yes,Medical Equipment Delivery,No
+P01732,No,None,No
+P01733,No,None,No
+P01734,No,None,No
+P01735,Yes,Transportation Assistance,No
+P01736,No,None,No
+P01737,No,None,No
+P01738,Yes,Transportation Assistance,No
+P01739,Yes,Medical Equipment Delivery,Yes
+P01740,No,None,No
+P01741,No,None,No
+P01742,No,None,No
+P01743,No,None,No
+P01744,Yes,Home Health Nursing,Yes
+P01745,No,None,No
+P01746,No,None,No
+P01747,Yes,Home Health Nursing,Yes
+P01748,Yes,Transportation Assistance,Yes
+P01749,No,None,No
+P01750,Yes,Home Health Nursing,No
+P01751,No,None,Yes
+P01752,Yes,Medical Equipment Delivery,No
+P01753,Yes,Medical Equipment Delivery,Yes
+P01754,Yes,Medical Equipment Delivery,No
+P01755,No,None,No
+P01756,No,None,No
+P01757,No,None,No
+P01758,No,None,No
+P01759,Yes,Transportation Assistance,No
+P01760,No,None,No
+P01761,No,None,No
+P01762,No,None,No
+P01763,Yes,Home Health Nursing,No
+P01764,No,None,Yes
+P01765,Yes,Home Health Nursing,No
+P01766,Yes,Home Health Nursing,No
+P01767,No,None,No
+P01768,No,None,No
+P01769,Yes,Physical Therapy,No
+P01770,Yes,Home Health Nursing,No
+P01771,No,None,No
+P01772,No,None,No
+P01773,No,None,Yes
+P01774,No,None,No
+P01775,No,None,No
+P01776,Yes,Home Health Nursing,No
+P01777,No,None,No
+P01778,No,None,Yes
+P01779,Yes,Medical Equipment Delivery,No
+P01780,No,None,Yes
+P01781,Yes,Transportation Assistance,Yes
+P01782,No,None,Yes
+P01783,No,None,No
+P01784,No,None,No
+P01785,No,None,No
+P01786,No,None,No
+P01787,No,None,Yes
+P01788,No,None,No
+P01789,Yes,Home Health Nursing,No
+P01790,No,None,No
+P01791,Yes,Physical Therapy,Yes
+P01792,No,None,No
+P01793,No,None,No
+P01794,No,None,No
+P01795,Yes,Transportation Assistance,No
+P01796,Yes,Home Health Nursing,Yes
+P01797,No,None,No
+P01798,Yes,Home Health Nursing,Yes
+P01799,Yes,Home Health Nursing,No
+P01800,Yes,Physical Therapy,No
+P01801,No,None,No
+P01802,No,None,No
+P01803,Yes,Home Health Nursing,No
+P01804,Yes,Transportation Assistance,Yes
+P01805,Yes,Physical Therapy,No
+P01806,No,None,No
+P01807,No,None,No
+P01808,Yes,Physical Therapy,No
+P01809,Yes,Home Health Nursing,No
+P01810,Yes,Physical Therapy,No
+P01811,No,None,No
+P01812,No,None,No
+P01813,Yes,Medical Equipment Delivery,Yes
+P01814,Yes,Medical Equipment Delivery,No
+P01815,Yes,Medical Equipment Delivery,No
+P01816,No,None,Yes
+P01817,Yes,Physical Therapy,No
+P01818,No,None,No
+P01819,No,None,No
+P01820,Yes,Transportation Assistance,Yes
+P01821,Yes,Medical Equipment Delivery,Yes
+P01822,Yes,Medical Equipment Delivery,Yes
+P01823,No,None,No
+P01824,No,None,No
+P01825,No,None,No
+P01826,No,None,Yes
+P01827,Yes,Home Health Nursing,No
+P01828,No,None,No
+P01829,No,None,No
+P01830,Yes,Home Health Nursing,Yes
+P01831,No,None,No
+P01832,No,None,No
+P01833,No,None,No
+P01834,No,None,No
+P01835,No,None,No
+P01836,No,None,No
+P01837,Yes,Home Health Nursing,No
+P01838,Yes,Medical Equipment Delivery,Yes
+P01839,No,None,No
+P01840,Yes,Physical Therapy,No
+P01841,Yes,Physical Therapy,No
+P01842,No,None,No
+P01843,No,None,Yes
+P01844,No,None,No
+P01845,No,None,No
+P01846,Yes,Transportation Assistance,No
+P01847,Yes,Transportation Assistance,No
+P01848,Yes,Transportation Assistance,No
+P01849,No,None,No
+P01850,No,None,No
+P01851,Yes,Home Health Nursing,No
+P01852,No,None,No
+P01853,No,None,No
+P01854,No,None,No
+P01855,No,None,No
+P01856,Yes,Medical Equipment Delivery,No
+P01857,No,None,No
+P01858,No,None,No
+P01859,No,None,No
+P01860,No,None,No
+P01861,No,None,No
+P01862,No,None,No
+P01863,Yes,Home Health Nursing,No
+P01864,No,None,No
+P01865,No,None,Yes
+P01866,No,None,No
+P01867,Yes,Home Health Nursing,No
+P01868,Yes,Home Health Nursing,No
+P01869,Yes,Home Health Nursing,Yes
+P01870,No,None,No
+P01871,No,None,No
+P01872,Yes,Physical Therapy,Yes
+P01873,No,None,No
+P01874,No,None,No
+P01875,No,None,No
+P01876,No,None,No
+P01877,No,None,No
+P01878,No,None,No
+P01879,Yes,Medical Equipment Delivery,No
+P01880,No,None,No
+P01881,No,None,No
+P01882,No,None,No
+P01883,No,None,No
+P01884,No,None,No
+P01885,Yes,Home Health Nursing,No
+P01886,No,None,Yes
+P01887,Yes,Medical Equipment Delivery,No
+P01888,Yes,Physical Therapy,No
+P01889,No,None,No
+P01890,No,None,No
+P01891,Yes,Home Health Nursing,Yes
+P01892,No,None,No
+P01893,No,None,Yes
+P01894,Yes,Physical Therapy,No
+P01895,No,None,No
+P01896,No,None,No
+P01897,No,None,No
+P01898,Yes,Home Health Nursing,No
+P01899,Yes,Physical Therapy,No
+P01900,No,None,No
+P01901,No,None,No
+P01902,Yes,Physical Therapy,No
+P01903,No,None,No
+P01904,Yes,Home Health Nursing,Yes
+P01905,No,None,No
+P01906,Yes,Home Health Nursing,No
+P01907,No,None,No
+P01908,Yes,Physical Therapy,No
+P01909,Yes,Transportation Assistance,No
+P01910,Yes,Home Health Nursing,No
+P01911,Yes,Medical Equipment Delivery,Yes
+P01912,No,None,No
+P01913,No,None,No
+P01914,Yes,Medical Equipment Delivery,No
+P01915,No,None,No
+P01916,No,None,No
+P01917,No,None,Yes
+P01918,No,None,Yes
+P01919,Yes,Transportation Assistance,Yes
+P01920,No,None,No
+P01921,No,None,No
+P01922,Yes,Medical Equipment Delivery,No
+P01923,No,None,No
+P01924,Yes,Physical Therapy,No
+P01925,No,None,No
+P01926,Yes,Medical Equipment Delivery,Yes
+P01927,No,None,No
+P01928,No,None,No
+P01929,No,None,No
+P01930,Yes,Transportation Assistance,Yes
+P01931,No,None,Yes
+P01932,No,None,Yes
+P01933,No,None,No
+P01934,No,None,No
+P01935,No,None,No
+P01936,No,None,No
+P01937,Yes,Physical Therapy,No
+P01938,No,None,No
+P01939,No,None,Yes
+P01940,Yes,Home Health Nursing,No
+P01941,Yes,Home Health Nursing,No
+P01942,Yes,Medical Equipment Delivery,Yes
+P01943,No,None,No
+P01944,No,None,No
+P01945,No,None,No
+P01946,No,None,No
+P01947,No,None,No
+P01948,Yes,Medical Equipment Delivery,No
+P01949,Yes,Home Health Nursing,Yes
+P01950,No,None,Yes
+P01951,Yes,Physical Therapy,No
+P01952,Yes,Physical Therapy,Yes
+P01953,No,None,No
+P01954,No,None,No
+P01955,No,None,No
+P01956,No,None,No
+P01957,No,None,No
+P01958,No,None,No
+P01959,No,None,No
+P01960,No,None,No
+P01961,Yes,Home Health Nursing,No
+P01962,No,None,No
+P01963,No,None,No
+P01964,Yes,Transportation Assistance,No
+P01965,No,None,Yes
+P01966,No,None,No
+P01967,Yes,Home Health Nursing,Yes
+P01968,Yes,Home Health Nursing,No
+P01969,Yes,Physical Therapy,Yes
+P01970,Yes,Medical Equipment Delivery,No
+P01971,Yes,Home Health Nursing,No
+P01972,No,None,No
+P01973,Yes,Medical Equipment Delivery,No
+P01974,No,None,No
+P01975,Yes,Physical Therapy,No
+P01976,No,None,No
+P01977,Yes,Home Health Nursing,No
+P01978,No,None,No
+P01979,No,None,Yes
+P01980,No,None,No
+P01981,Yes,Home Health Nursing,Yes
+P01982,No,None,No
+P01983,No,None,No
+P01984,No,None,No
+P01985,Yes,Physical Therapy,No
+P01986,Yes,Home Health Nursing,Yes
+P01987,No,None,No
+P01988,No,None,No
+P01989,No,None,No
+P01990,No,None,No
+P01991,No,None,No
+P01992,Yes,Transportation Assistance,Yes
+P01993,No,None,No
+P01994,Yes,Medical Equipment Delivery,No
+P01995,No,None,No
+P01996,No,None,Yes
+P01997,No,None,No
+P01998,Yes,Transportation Assistance,No
+P01999,Yes,Home Health Nursing,No
+P02000,Yes,Transportation Assistance,No
+P02001,Yes,Physical Therapy,Yes
+P02002,Yes,Home Health Nursing,No
+P02003,No,None,No
+P02004,Yes,Home Health Nursing,No
+P02005,Yes,Home Health Nursing,No
+P02006,No,None,Yes
+P02007,No,None,No
+P02008,No,None,No
+P02009,Yes,Medical Equipment Delivery,No
+P02010,No,None,No
+P02011,Yes,Physical Therapy,No
+P02012,Yes,Home Health Nursing,No
+P02013,No,None,No
+P02014,Yes,Medical Equipment Delivery,No
+P02015,No,None,No
+P02016,No,None,No
+P02017,Yes,Home Health Nursing,No
+P02018,No,None,No
+P02019,Yes,Physical Therapy,No
+P02020,No,None,No
+P02021,No,None,Yes
+P02022,No,None,No
+P02023,No,None,No
+P02024,Yes,Physical Therapy,No
+P02025,No,None,No
+P02026,Yes,Medical Equipment Delivery,No
+P02027,No,None,No
+P02028,No,None,No
+P02029,Yes,Medical Equipment Delivery,No
+P02030,No,None,No
+P02031,Yes,Physical Therapy,No
+P02032,No,None,No
+P02033,No,None,No
+P02034,No,None,No
+P02035,No,None,No
+P02036,Yes,Physical Therapy,No
+P02037,Yes,Physical Therapy,No
+P02038,Yes,Medical Equipment Delivery,Yes
+P02039,Yes,Home Health Nursing,No
+P02040,Yes,Home Health Nursing,No
+P02041,No,None,No
+P02042,No,None,No
+P02043,No,None,No
+P02044,Yes,Home Health Nursing,No
+P02045,No,None,No
+P02046,No,None,Yes
+P02047,Yes,Physical Therapy,No
+P02048,No,None,No
+P02049,No,None,No
+P02050,Yes,Physical Therapy,Yes
+P02051,No,None,No
+P02052,No,None,No
+P02053,Yes,Medical Equipment Delivery,No
+P02054,No,None,No
+P02055,No,None,No
+P02056,No,None,No
+P02057,No,None,No
+P02058,No,None,No
+P02059,No,None,No
+P02060,No,None,No
+P02061,Yes,Home Health Nursing,No
+P02062,No,None,No
+P02063,No,None,No
+P02064,No,None,Yes
+P02065,Yes,Physical Therapy,No
+P02066,No,None,No
+P02067,Yes,Medical Equipment Delivery,No
+P02068,Yes,Medical Equipment Delivery,No
+P02069,Yes,Physical Therapy,Yes
+P02070,Yes,Physical Therapy,No
+P02071,No,None,No
+P02072,No,None,No
+P02073,Yes,Home Health Nursing,No
+P02074,No,None,No
+P02075,No,None,No
+P02076,No,None,No
+P02077,Yes,Transportation Assistance,No
+P02078,No,None,No
+P02079,No,None,No
+P02080,No,None,No
+P02081,Yes,Home Health Nursing,Yes
+P02082,Yes,Transportation Assistance,No
+P02083,No,None,No
+P02084,No,None,No
+P02085,No,None,No
+P02086,No,None,No
+P02087,Yes,Medical Equipment Delivery,Yes
+P02088,No,None,No
+P02089,No,None,No
+P02090,Yes,Physical Therapy,No
+P02091,No,None,No
+P02092,No,None,No
+P02093,Yes,Home Health Nursing,No
+P02094,No,None,Yes
+P02095,Yes,Physical Therapy,No
+P02096,No,None,No
+P02097,No,None,No
+P02098,No,None,No
+P02099,No,None,No
+P02100,Yes,Physical Therapy,No
+P02101,No,None,No
+P02102,No,None,No
+P02103,Yes,Home Health Nursing,No
+P02104,No,None,No
+P02105,No,None,No
+P02106,Yes,Medical Equipment Delivery,No
+P02107,No,None,No
+P02108,No,None,No
+P02109,Yes,Transportation Assistance,No
+P02110,No,None,No
+P02111,Yes,Physical Therapy,No
+P02112,Yes,Medical Equipment Delivery,No
+P02113,Yes,Home Health Nursing,No
+P02114,No,None,No
+P02115,No,None,No
+P02116,Yes,Physical Therapy,Yes
+P02117,No,None,No
+P02118,No,None,No
+P02119,Yes,Home Health Nursing,No
+P02120,No,None,No
+P02121,No,None,Yes
+P02122,No,None,No
+P02123,No,None,No
+P02124,No,None,No
+P02125,No,None,No
+P02126,No,None,Yes
+P02127,No,None,Yes
+P02128,Yes,Medical Equipment Delivery,No
+P02129,No,None,No
+P02130,No,None,No
+P02131,Yes,Transportation Assistance,No
+P02132,Yes,Medical Equipment Delivery,No
+P02133,No,None,No
+P02134,No,None,No
+P02135,No,None,No
+P02136,No,None,No
+P02137,Yes,Home Health Nursing,No
+P02138,No,None,No
+P02139,Yes,Physical Therapy,No
+P02140,No,None,No
+P02141,No,None,No
+P02142,No,None,Yes
+P02143,No,None,No
+P02144,Yes,Physical Therapy,No
+P02145,No,None,No
+P02146,No,None,No
+P02147,No,None,Yes
+P02148,Yes,Physical Therapy,No
+P02149,No,None,Yes
+P02150,No,None,No
+P02151,Yes,Medical Equipment Delivery,No
+P02152,Yes,Medical Equipment Delivery,No
+P02153,No,None,No
+P02154,No,None,No
+P02155,Yes,Medical Equipment Delivery,No
+P02156,Yes,Physical Therapy,No
+P02157,Yes,Home Health Nursing,Yes
+P02158,Yes,Home Health Nursing,No
+P02159,No,None,No
+P02160,No,None,No
+P02161,No,None,No
+P02162,No,None,No
+P02163,Yes,Physical Therapy,No
+P02164,No,None,No
+P02165,No,None,No
+P02166,No,None,No
+P02167,No,None,No
+P02168,Yes,Physical Therapy,No
+P02169,No,None,No
+P02170,Yes,Medical Equipment Delivery,No
+P02171,No,None,No
+P02172,Yes,Medical Equipment Delivery,Yes
+P02173,Yes,Home Health Nursing,No
+P02174,No,None,No
+P02175,Yes,Physical Therapy,No
+P02176,No,None,No
+P02177,Yes,Home Health Nursing,No
+P02178,No,None,No
+P02179,No,None,Yes
+P02180,No,None,No
+P02181,Yes,Home Health Nursing,No
+P02182,Yes,Medical Equipment Delivery,No
+P02183,Yes,Home Health Nursing,No
+P02184,Yes,Physical Therapy,No
+P02185,No,None,No
+P02186,No,None,No
+P02187,No,None,Yes
+P02188,No,None,No
+P02189,No,None,No
+P02190,No,None,No
+P02191,Yes,Home Health Nursing,No
+P02192,No,None,No
+P02193,No,None,No
+P02194,No,None,No
+P02195,Yes,Transportation Assistance,No
+P02196,No,None,No
+P02197,No,None,No
+P02198,No,None,No
+P02199,No,None,No
+P02200,Yes,Physical Therapy,No
+P02201,No,None,Yes
+P02202,Yes,Home Health Nursing,No
+P02203,No,None,No
+P02204,Yes,Physical Therapy,No
+P02205,No,None,No
+P02206,No,None,No
+P02207,Yes,Medical Equipment Delivery,Yes
+P02208,No,None,No
+P02209,Yes,Transportation Assistance,No
+P02210,No,None,No
+P02211,No,None,No
+P02212,No,None,No
+P02213,Yes,Home Health Nursing,No
+P02214,No,None,No
+P02215,No,None,No
+P02216,Yes,Transportation Assistance,No
+P02217,No,None,No
+P02218,Yes,Transportation Assistance,No
+P02219,No,None,Yes
+P02220,Yes,Transportation Assistance,No
+P02221,No,None,No
+P02222,No,None,No
+P02223,Yes,Medical Equipment Delivery,No
+P02224,Yes,Medical Equipment Delivery,No
+P02225,Yes,Physical Therapy,No
+P02226,No,None,No
+P02227,Yes,Medical Equipment Delivery,No
+P02228,No,None,No
+P02229,Yes,Physical Therapy,No
+P02230,Yes,Medical Equipment Delivery,No
+P02231,No,None,No
+P02232,Yes,Physical Therapy,No
+P02233,No,None,No
+P02234,No,None,Yes
+P02235,No,None,No
+P02236,No,None,No
+P02237,No,None,No
+P02238,Yes,Medical Equipment Delivery,Yes
+P02239,Yes,Medical Equipment Delivery,No
+P02240,Yes,Home Health Nursing,Yes
+P02241,No,None,No
+P02242,Yes,Medical Equipment Delivery,No
+P02243,No,None,No
+P02244,No,None,No
+P02245,No,None,Yes
+P02246,No,None,No
+P02247,Yes,Physical Therapy,No
+P02248,No,None,No
+P02249,No,None,No
+P02250,Yes,Medical Equipment Delivery,No
+P02251,Yes,Physical Therapy,No
+P02252,No,None,No
+P02253,No,None,No
+P02254,No,None,No
+P02255,No,None,Yes
+P02256,No,None,No
+P02257,No,None,No
+P02258,No,None,No
+P02259,Yes,Physical Therapy,No
+P02260,No,None,No
+P02261,No,None,No
+P02262,No,None,Yes
+P02263,No,None,No
+P02264,No,None,Yes
+P02265,No,None,No
+P02266,No,None,No
+P02267,No,None,No
+P02268,No,None,No
+P02269,Yes,Transportation Assistance,No
+P02270,No,None,No
+P02271,Yes,Home Health Nursing,No
+P02272,Yes,Medical Equipment Delivery,No
+P02273,No,None,No
+P02274,No,None,Yes
+P02275,No,None,No
+P02276,No,None,No
+P02277,No,None,No
+P02278,No,None,No
+P02279,No,None,No
+P02280,Yes,Physical Therapy,Yes
+P02281,Yes,Physical Therapy,No
+P02282,Yes,Home Health Nursing,No
+P02283,No,None,No
+P02284,Yes,Physical Therapy,No
+P02285,Yes,Home Health Nursing,No
+P02286,Yes,Home Health Nursing,No
+P02287,No,None,No
+P02288,Yes,Home Health Nursing,No
+P02289,No,None,No
+P02290,Yes,Home Health Nursing,Yes
+P02291,No,None,No
+P02292,Yes,Transportation Assistance,Yes
+P02293,Yes,Transportation Assistance,No
+P02294,No,None,Yes
+P02295,Yes,Physical Therapy,No
+P02296,Yes,Medical Equipment Delivery,No
+P02297,Yes,Home Health Nursing,Yes
+P02298,Yes,Medical Equipment Delivery,Yes
+P02299,Yes,Medical Equipment Delivery,No
+P02300,Yes,Transportation Assistance,Yes
+P02301,No,None,Yes
+P02302,No,None,No
+P02303,No,None,No
+P02304,Yes,Physical Therapy,No
+P02305,No,None,No
+P02306,Yes,Medical Equipment Delivery,No
+P02307,Yes,Home Health Nursing,Yes
+P02308,No,None,No
+P02309,Yes,Transportation Assistance,No
+P02310,Yes,Home Health Nursing,No
+P02311,No,None,No
+P02312,No,None,No
+P02313,No,None,No
+P02314,No,None,No
+P02315,No,None,No
+P02316,Yes,Medical Equipment Delivery,Yes
+P02317,Yes,Medical Equipment Delivery,Yes
+P02318,Yes,Medical Equipment Delivery,Yes
+P02319,No,None,No
+P02320,No,None,No
+P02321,No,None,Yes
+P02322,No,None,No
+P02323,No,None,Yes
+P02324,Yes,Home Health Nursing,No
+P02325,No,None,No
+P02326,No,None,No
+P02327,No,None,No
+P02328,Yes,Transportation Assistance,No
+P02329,No,None,No
+P02330,Yes,Home Health Nursing,Yes
+P02331,Yes,Medical Equipment Delivery,Yes
+P02332,Yes,Home Health Nursing,No
+P02333,No,None,No
+P02334,No,None,No
+P02335,Yes,Home Health Nursing,No
+P02336,Yes,Physical Therapy,No
+P02337,No,None,No
+P02338,Yes,Physical Therapy,No
+P02339,Yes,Home Health Nursing,No
+P02340,No,None,No
+P02341,No,None,No
+P02342,Yes,Home Health Nursing,Yes
+P02343,Yes,Physical Therapy,No
+P02344,Yes,Medical Equipment Delivery,No
+P02345,No,None,No
+P02346,No,None,No
+P02347,No,None,No
+P02348,Yes,Transportation Assistance,No
+P02349,No,None,No
+P02350,Yes,Home Health Nursing,Yes
+P02351,No,None,No
+P02352,No,None,No
+P02353,No,None,No
+P02354,No,None,Yes
+P02355,No,None,No
+P02356,Yes,Physical Therapy,No
+P02357,No,None,No
+P02358,Yes,Home Health Nursing,No
+P02359,No,None,No
+P02360,Yes,Home Health Nursing,No
+P02361,Yes,Medical Equipment Delivery,Yes
+P02362,No,None,No
+P02363,Yes,Medical Equipment Delivery,No
+P02364,No,None,No
+P02365,No,None,No
+P02366,Yes,Home Health Nursing,No
+P02367,Yes,Home Health Nursing,No
+P02368,No,None,Yes
+P02369,Yes,Home Health Nursing,Yes
+P02370,No,None,No
+P02371,No,None,Yes
+P02372,No,None,No
+P02373,No,None,No
+P02374,No,None,No
+P02375,No,None,No
+P02376,Yes,Medical Equipment Delivery,No
+P02377,Yes,Transportation Assistance,No
+P02378,No,None,No
+P02379,No,None,No
+P02380,No,None,Yes
+P02381,No,None,No
+P02382,No,None,No
+P02383,No,None,No
+P02384,No,None,Yes
+P02385,Yes,Home Health Nursing,Yes
+P02386,No,None,No
+P02387,Yes,Home Health Nursing,No
+P02388,No,None,No
+P02389,No,None,No
+P02390,No,None,No
+P02391,Yes,Transportation Assistance,No
+P02392,Yes,Transportation Assistance,No
+P02393,No,None,Yes
+P02394,Yes,Physical Therapy,No
+P02395,No,None,No
+P02396,Yes,Home Health Nursing,No
+P02397,Yes,Home Health Nursing,No
+P02398,Yes,Physical Therapy,No
+P02399,No,None,No
+P02400,No,None,No
+P02401,Yes,Physical Therapy,No
+P02402,Yes,Home Health Nursing,Yes
+P02403,No,None,No
+P02404,Yes,Physical Therapy,No
+P02405,No,None,No
+P02406,No,None,No
+P02407,Yes,Home Health Nursing,No
+P02408,Yes,Medical Equipment Delivery,No
+P02409,No,None,No
+P02410,No,None,Yes
+P02411,No,None,Yes
+P02412,Yes,Home Health Nursing,No
+P02413,No,None,No
+P02414,Yes,Home Health Nursing,No
+P02415,No,None,No
+P02416,No,None,No
+P02417,Yes,Physical Therapy,No
+P02418,Yes,Physical Therapy,No
+P02419,Yes,Transportation Assistance,No
+P02420,Yes,Physical Therapy,No
+P02421,Yes,Home Health Nursing,No
+P02422,Yes,Medical Equipment Delivery,Yes
+P02423,No,None,No
+P02424,No,None,No
+P02425,Yes,Home Health Nursing,No
+P02426,No,None,No
+P02427,Yes,Transportation Assistance,No
+P02428,No,None,No
+P02429,Yes,Physical Therapy,No
+P02430,No,None,No
+P02431,No,None,No
+P02432,No,None,No
+P02433,No,None,No
+P02434,Yes,Physical Therapy,No
+P02435,No,None,Yes
+P02436,Yes,Home Health Nursing,No
+P02437,Yes,Physical Therapy,No
+P02438,Yes,Medical Equipment Delivery,No
+P02439,No,None,No
+P02440,Yes,Medical Equipment Delivery,No
+P02441,No,None,No
+P02442,No,None,No
+P02443,No,None,No
+P02444,No,None,No
+P02445,No,None,No
+P02446,Yes,Home Health Nursing,No
+P02447,Yes,Home Health Nursing,Yes
+P02448,Yes,Medical Equipment Delivery,No
+P02449,Yes,Transportation Assistance,No
+P02450,Yes,Home Health Nursing,Yes
+P02451,Yes,Physical Therapy,No
+P02452,No,None,No
+P02453,No,None,No
+P02454,Yes,Home Health Nursing,No
+P02455,No,None,No
+P02456,Yes,Transportation Assistance,No
+P02457,No,None,No
+P02458,No,None,No
+P02459,No,None,No
+P02460,No,None,No
+P02461,No,None,No
+P02462,No,None,No
+P02463,No,None,No
+P02464,No,None,No
+P02465,No,None,No
+P02466,Yes,Home Health Nursing,Yes
+P02467,Yes,Home Health Nursing,No
+P02468,Yes,Medical Equipment Delivery,No
+P02469,No,None,No
+P02470,No,None,Yes
+P02471,Yes,Home Health Nursing,Yes
+P02472,No,None,No
+P02473,No,None,No
+P02474,No,None,No
+P02475,No,None,No
+P02476,No,None,No
+P02477,Yes,Physical Therapy,No
+P02478,No,None,No
+P02479,Yes,Physical Therapy,No
+P02480,No,None,No
+P02481,Yes,Home Health Nursing,No
+P02482,No,None,Yes
+P02483,No,None,No
+P02484,Yes,Physical Therapy,No
+P02485,No,None,No
+P02486,No,None,Yes
+P02487,No,None,No
+P02488,No,None,No
+P02489,No,None,No
+P02490,Yes,Physical Therapy,No
+P02491,Yes,Home Health Nursing,No
+P02492,Yes,Physical Therapy,No
+P02493,No,None,No
+P02494,Yes,Medical Equipment Delivery,No
+P02495,No,None,No
+P02496,No,None,No
+P02497,No,None,No
+P02498,No,None,No
+P02499,No,None,No
+P02500,No,None,No
+P02501,No,None,No
+P02502,No,None,No
+P02503,No,None,No
+P02504,No,None,No
+P02505,Yes,Medical Equipment Delivery,No
+P02506,Yes,Home Health Nursing,No
+P02507,No,None,Yes
+P02508,No,None,No
+P02509,No,None,No
+P02510,No,None,No
+P02511,Yes,Home Health Nursing,No
+P02512,No,None,No
+P02513,No,None,Yes
+P02514,No,None,No
+P02515,No,None,No
+P02516,No,None,No
+P02517,Yes,Home Health Nursing,No
+P02518,No,None,Yes
+P02519,No,None,No
+P02520,No,None,No
+P02521,No,None,No
+P02522,Yes,Physical Therapy,Yes
+P02523,Yes,Physical Therapy,No
+P02524,Yes,Medical Equipment Delivery,Yes
+P02525,No,None,No
+P02526,Yes,Home Health Nursing,No
+P02527,Yes,Home Health Nursing,No
+P02528,No,None,No
+P02529,Yes,Physical Therapy,No
+P02530,No,None,No
+P02531,No,None,No
+P02532,No,None,No
+P02533,Yes,Medical Equipment Delivery,No
+P02534,Yes,Home Health Nursing,Yes
+P02535,No,None,No
+P02536,No,None,No
+P02537,No,None,No
+P02538,Yes,Medical Equipment Delivery,Yes
+P02539,No,None,No
+P02540,No,None,No
+P02541,No,None,No
+P02542,No,None,No
+P02543,No,None,No
+P02544,No,None,Yes
+P02545,Yes,Home Health Nursing,No
+P02546,No,None,No
+P02547,Yes,Transportation Assistance,No
+P02548,No,None,No
+P02549,No,None,No
+P02550,Yes,Transportation Assistance,Yes
+P02551,Yes,Home Health Nursing,Yes
+P02552,Yes,Home Health Nursing,No
+P02553,No,None,No
+P02554,No,None,No
+P02555,Yes,Physical Therapy,No
+P02556,No,None,No
+P02557,No,None,No
+P02558,Yes,Home Health Nursing,Yes
+P02559,Yes,Medical Equipment Delivery,Yes
+P02560,No,None,No
+P02561,No,None,No
+P02562,No,None,No
+P02563,Yes,Medical Equipment Delivery,No
+P02564,Yes,Medical Equipment Delivery,Yes
+P02565,No,None,No
+P02566,Yes,Medical Equipment Delivery,No
+P02567,Yes,Physical Therapy,No
+P02568,Yes,Home Health Nursing,No
+P02569,No,None,No
+P02570,No,None,No
+P02571,No,None,No
+P02572,No,None,No
+P02573,Yes,Medical Equipment Delivery,No
+P02574,No,None,No
+P02575,Yes,Physical Therapy,No
+P02576,No,None,Yes
+P02577,No,None,No
+P02578,No,None,No
+P02579,Yes,Medical Equipment Delivery,No
+P02580,No,None,No
+P02581,Yes,Home Health Nursing,No
+P02582,No,None,No
+P02583,No,None,No
+P02584,No,None,No
+P02585,No,None,No
+P02586,No,None,No
+P02587,Yes,Home Health Nursing,No
+P02588,No,None,No
+P02589,Yes,Transportation Assistance,No
+P02590,No,None,No
+P02591,No,None,No
+P02592,No,None,No
+P02593,No,None,No
+P02594,No,None,No
+P02595,Yes,Home Health Nursing,Yes
+P02596,No,None,No
+P02597,Yes,Transportation Assistance,Yes
+P02598,No,None,Yes
+P02599,Yes,Transportation Assistance,No
+P02600,Yes,Medical Equipment Delivery,No
+P02601,No,None,No
+P02602,Yes,Medical Equipment Delivery,No
+P02603,No,None,No
+P02604,Yes,Physical Therapy,No
+P02605,Yes,Transportation Assistance,No
+P02606,No,None,No
+P02607,Yes,Home Health Nursing,No
+P02608,Yes,Physical Therapy,Yes
+P02609,No,None,Yes
+P02610,Yes,Medical Equipment Delivery,No
+P02611,No,None,No
+P02612,Yes,Physical Therapy,No
+P02613,Yes,Physical Therapy,No
+P02614,No,None,No
+P02615,Yes,Home Health Nursing,No
+P02616,Yes,Physical Therapy,No
+P02617,Yes,Transportation Assistance,No
+P02618,Yes,Home Health Nursing,No
+P02619,No,None,No
+P02620,Yes,Transportation Assistance,No
+P02621,No,None,No
+P02622,No,None,No
+P02623,No,None,No
+P02624,No,None,No
+P02625,Yes,Medical Equipment Delivery,No
+P02626,No,None,No
+P02627,Yes,Medical Equipment Delivery,No
+P02628,No,None,Yes
+P02629,No,None,No
+P02630,Yes,Physical Therapy,No
+P02631,No,None,No
+P02632,No,None,No
+P02633,Yes,Medical Equipment Delivery,No
+P02634,Yes,Home Health Nursing,No
+P02635,No,None,No
+P02636,No,None,No
+P02637,No,None,No
+P02638,No,None,No
+P02639,No,None,No
+P02640,No,None,Yes
+P02641,Yes,Medical Equipment Delivery,No
+P02642,Yes,Home Health Nursing,Yes
+P02643,No,None,No
+P02644,No,None,No
+P02645,Yes,Transportation Assistance,No
+P02646,Yes,Transportation Assistance,Yes
+P02647,No,None,No
+P02648,No,None,No
+P02649,No,None,No
+P02650,No,None,No
+P02651,Yes,Home Health Nursing,Yes
+P02652,Yes,Home Health Nursing,No
+P02653,Yes,Medical Equipment Delivery,No
+P02654,Yes,Home Health Nursing,No
+P02655,No,None,No
+P02656,No,None,No
+P02657,No,None,Yes
+P02658,No,None,No
+P02659,Yes,Transportation Assistance,No
+P02660,No,None,Yes
+P02661,No,None,No
+P02662,No,None,No
+P02663,Yes,Home Health Nursing,No
+P02664,No,None,No
+P02665,No,None,No
+P02666,Yes,Home Health Nursing,No
+P02667,Yes,Transportation Assistance,No
+P02668,No,None,Yes
+P02669,No,None,No
+P02670,Yes,Medical Equipment Delivery,No
+P02671,No,None,No
+P02672,Yes,Medical Equipment Delivery,No
+P02673,No,None,No
+P02674,Yes,Home Health Nursing,Yes
+P02675,No,None,No
+P02676,Yes,Medical Equipment Delivery,Yes
+P02677,Yes,Physical Therapy,No
+P02678,Yes,Medical Equipment Delivery,Yes
+P02679,Yes,Medical Equipment Delivery,No
+P02680,No,None,No
+P02681,Yes,Physical Therapy,No
+P02682,No,None,No
+P02683,Yes,Physical Therapy,No
+P02684,Yes,Home Health Nursing,No
+P02685,Yes,Medical Equipment Delivery,Yes
+P02686,Yes,Home Health Nursing,No
+P02687,Yes,Medical Equipment Delivery,No
+P02688,No,None,No
+P02689,No,None,No
+P02690,No,None,No
+P02691,No,None,No
+P02692,No,None,No
+P02693,Yes,Home Health Nursing,No
+P02694,No,None,Yes
+P02695,No,None,No
+P02696,No,None,No
+P02697,No,None,No
+P02698,Yes,Medical Equipment Delivery,Yes
+P02699,No,None,Yes
+P02700,No,None,No
+P02701,No,None,No
+P02702,No,None,Yes
+P02703,Yes,Medical Equipment Delivery,Yes
+P02704,Yes,Home Health Nursing,No
+P02705,No,None,No
+P02706,No,None,No
+P02707,Yes,Home Health Nursing,No
+P02708,Yes,Home Health Nursing,No
+P02709,Yes,Medical Equipment Delivery,Yes
+P02710,Yes,Medical Equipment Delivery,Yes
+P02711,No,None,No
+P02712,No,None,No
+P02713,Yes,Home Health Nursing,No
+P02714,Yes,Medical Equipment Delivery,No
+P02715,Yes,Home Health Nursing,No
+P02716,Yes,Physical Therapy,No
+P02717,No,None,No
+P02718,No,None,Yes
+P02719,No,None,No
+P02720,Yes,Transportation Assistance,No
+P02721,No,None,No
+P02722,No,None,Yes
+P02723,No,None,No
+P02724,No,None,No
+P02725,Yes,Home Health Nursing,No
+P02726,Yes,Physical Therapy,No
+P02727,Yes,Home Health Nursing,No
+P02728,Yes,Home Health Nursing,Yes
+P02729,Yes,Home Health Nursing,No
+P02730,No,None,No
+P02731,No,None,No
+P02732,No,None,No
+P02733,Yes,Home Health Nursing,No
+P02734,No,None,No
+P02735,No,None,No
+P02736,No,None,No
+P02737,No,None,No
+P02738,No,None,No
+P02739,No,None,No
+P02740,Yes,Medical Equipment Delivery,Yes
+P02741,Yes,Physical Therapy,No
+P02742,Yes,Physical Therapy,No
+P02743,Yes,Home Health Nursing,Yes
+P02744,Yes,Home Health Nursing,Yes
+P02745,No,None,No
+P02746,No,None,Yes
+P02747,No,None,No
+P02748,Yes,Medical Equipment Delivery,No
+P02749,No,None,No
+P02750,No,None,Yes
+P02751,Yes,Transportation Assistance,No
+P02752,No,None,No
+P02753,Yes,Home Health Nursing,No
+P02754,Yes,Transportation Assistance,No
+P02755,No,None,No
+P02756,Yes,Physical Therapy,No
+P02757,No,None,No
+P02758,No,None,No
+P02759,No,None,No
+P02760,Yes,Physical Therapy,No
+P02761,Yes,Physical Therapy,No
+P02762,Yes,Home Health Nursing,Yes
+P02763,No,None,No
+P02764,No,None,No
+P02765,Yes,Home Health Nursing,No
+P02766,No,None,No
+P02767,No,None,No
+P02768,Yes,Medical Equipment Delivery,No
+P02769,No,None,Yes
+P02770,No,None,No
+P02771,Yes,Home Health Nursing,No
+P02772,Yes,Transportation Assistance,No
+P02773,No,None,No
+P02774,No,None,No
+P02775,No,None,No
+P02776,No,None,Yes
+P02777,Yes,Physical Therapy,No
+P02778,Yes,Home Health Nursing,No
+P02779,No,None,No
+P02780,Yes,Medical Equipment Delivery,No
+P02781,Yes,Home Health Nursing,No
+P02782,No,None,No
+P02783,No,None,No
+P02784,No,None,No
+P02785,No,None,No
+P02786,Yes,Physical Therapy,Yes
+P02787,No,None,No
+P02788,Yes,Medical Equipment Delivery,Yes
+P02789,No,None,No
+P02790,No,None,Yes
+P02791,No,None,No
+P02792,No,None,No
+P02793,No,None,No
+P02794,Yes,Transportation Assistance,No
+P02795,No,None,No
+P02796,No,None,No
+P02797,Yes,Medical Equipment Delivery,Yes
+P02798,No,None,No
+P02799,No,None,No
+P02800,Yes,Medical Equipment Delivery,No
+P02801,No,None,No
+P02802,No,None,No
+P02803,No,None,No
+P02804,No,None,Yes
+P02805,No,None,No
+P02806,No,None,No
+P02807,No,None,No
+P02808,Yes,Medical Equipment Delivery,No
+P02809,No,None,No
+P02810,No,None,No
+P02811,Yes,Transportation Assistance,No
+P02812,No,None,No
+P02813,No,None,No
+P02814,Yes,Home Health Nursing,Yes
+P02815,No,None,No
+P02816,No,None,No
+P02817,No,None,No
+P02818,Yes,Home Health Nursing,No
+P02819,Yes,Home Health Nursing,No
+P02820,Yes,Home Health Nursing,No
+P02821,No,None,No
+P02822,Yes,Medical Equipment Delivery,No
+P02823,No,None,Yes
+P02824,Yes,Medical Equipment Delivery,No
+P02825,Yes,Physical Therapy,No
+P02826,No,None,No
+P02827,No,None,No
+P02828,Yes,Home Health Nursing,No
+P02829,No,None,No
+P02830,Yes,Medical Equipment Delivery,No
+P02831,No,None,No
+P02832,No,None,No
+P02833,Yes,Home Health Nursing,No
+P02834,Yes,Medical Equipment Delivery,No
+P02835,Yes,Physical Therapy,No
+P02836,No,None,No
+P02837,No,None,No
+P02838,Yes,Home Health Nursing,No
+P02839,No,None,No
+P02840,Yes,Home Health Nursing,Yes
+P02841,Yes,Home Health Nursing,No
+P02842,No,None,No
+P02843,No,None,No
+P02844,No,None,Yes
+P02845,No,None,No
+P02846,Yes,Medical Equipment Delivery,No
+P02847,No,None,No
+P02848,Yes,Transportation Assistance,No
+P02849,No,None,No
+P02850,Yes,Medical Equipment Delivery,No
+P02851,No,None,No
+P02852,Yes,Home Health Nursing,Yes
+P02853,Yes,Physical Therapy,No
+P02854,No,None,No
+P02855,Yes,Medical Equipment Delivery,No
+P02856,No,None,No
+P02857,Yes,Medical Equipment Delivery,No
+P02858,Yes,Home Health Nursing,No
+P02859,Yes,Home Health Nursing,No
+P02860,Yes,Medical Equipment Delivery,No
+P02861,No,None,No
+P02862,Yes,Physical Therapy,No
+P02863,No,None,Yes
+P02864,No,None,No
+P02865,No,None,No
+P02866,No,None,No
+P02867,No,None,No
+P02868,No,None,No
+P02869,Yes,Home Health Nursing,No
+P02870,Yes,Home Health Nursing,Yes
+P02871,No,None,No
+P02872,No,None,No
+P02873,No,None,No
+P02874,No,None,No
+P02875,No,None,No
+P02876,No,None,No
+P02877,No,None,No
+P02878,Yes,Physical Therapy,No
+P02879,No,None,No
+P02880,Yes,Transportation Assistance,No
+P02881,Yes,Transportation Assistance,No
+P02882,No,None,Yes
+P02883,Yes,Physical Therapy,No
+P02884,Yes,Physical Therapy,No
+P02885,Yes,Home Health Nursing,No
+P02886,No,None,Yes
+P02887,No,None,Yes
+P02888,No,None,No
+P02889,No,None,No
+P02890,No,None,No
+P02891,Yes,Physical Therapy,No
+P02892,No,None,No
+P02893,No,None,No
+P02894,No,None,Yes
+P02895,Yes,Physical Therapy,No
+P02896,No,None,No
+P02897,No,None,Yes
+P02898,Yes,Medical Equipment Delivery,Yes
+P02899,No,None,No
+P02900,Yes,Physical Therapy,No
+P02901,Yes,Home Health Nursing,No
+P02902,No,None,Yes
+P02903,Yes,Home Health Nursing,Yes
+P02904,No,None,No
+P02905,No,None,No
+P02906,Yes,Home Health Nursing,No
+P02907,No,None,No
+P02908,Yes,Home Health Nursing,No
+P02909,Yes,Home Health Nursing,No
+P02910,Yes,Transportation Assistance,No
+P02911,Yes,Physical Therapy,No
+P02912,Yes,Physical Therapy,No
+P02913,No,None,No
+P02914,No,None,Yes
+P02915,Yes,Transportation Assistance,No
+P02916,No,None,No
+P02917,No,None,No
+P02918,No,None,No
+P02919,No,None,No
+P02920,Yes,Transportation Assistance,No
+P02921,Yes,Physical Therapy,No
+P02922,No,None,No
+P02923,No,None,Yes
+P02924,Yes,Medical Equipment Delivery,Yes
+P02925,Yes,Home Health Nursing,No
+P02926,No,None,No
+P02927,No,None,No
+P02928,No,None,No
+P02929,No,None,No
+P02930,Yes,Home Health Nursing,Yes
+P02931,No,None,No
+P02932,No,None,No
+P02933,Yes,Physical Therapy,No
+P02934,No,None,No
+P02935,No,None,No
+P02936,Yes,Medical Equipment Delivery,Yes
+P02937,No,None,No
+P02938,No,None,No
+P02939,No,None,No
+P02940,Yes,Medical Equipment Delivery,Yes
+P02941,Yes,Home Health Nursing,No
+P02942,No,None,No
+P02943,Yes,Home Health Nursing,No
+P02944,No,None,No
+P02945,No,None,No
+P02946,Yes,Medical Equipment Delivery,No
+P02947,No,None,No
+P02948,No,None,Yes
+P02949,Yes,Home Health Nursing,No
+P02950,No,None,No
+P02951,No,None,No
+P02952,No,None,No
+P02953,No,None,No
+P02954,No,None,No
+P02955,No,None,No
+P02956,No,None,No
+P02957,No,None,No
+P02958,No,None,No
+P02959,Yes,Physical Therapy,No
+P02960,No,None,No
+P02961,Yes,Medical Equipment Delivery,No
+P02962,Yes,Medical Equipment Delivery,Yes
+P02963,Yes,Medical Equipment Delivery,No
+P02964,No,None,No
+P02965,No,None,No
+P02966,No,None,No
+P02967,No,None,No
+P02968,No,None,No
+P02969,No,None,No
+P02970,No,None,No
+P02971,Yes,Transportation Assistance,Yes
+P02972,Yes,Physical Therapy,No
+P02973,No,None,No
+P02974,No,None,No
+P02975,Yes,Medical Equipment Delivery,Yes
+P02976,Yes,Medical Equipment Delivery,No
+P02977,No,None,No
+P02978,Yes,Home Health Nursing,No
+P02979,No,None,No
+P02980,No,None,No
+P02981,No,None,No
+P02982,Yes,Home Health Nursing,No
+P02983,No,None,No
+P02984,No,None,No
+P02985,No,None,No
+P02986,No,None,No
+P02987,Yes,Home Health Nursing,No
+P02988,No,None,No
+P02989,No,None,No
+P02990,No,None,No
+P02991,Yes,Physical Therapy,No
+P02992,No,None,No
+P02993,No,None,No
+P02994,Yes,Medical Equipment Delivery,No
+P02995,Yes,Medical Equipment Delivery,No
+P02996,No,None,No
+P02997,Yes,Home Health Nursing,No
+P02998,Yes,Home Health Nursing,Yes
+P02999,Yes,Transportation Assistance,No
+P03000,No,None,Yes
