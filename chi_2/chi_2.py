@@ -90,3 +90,8 @@ def cramers_v(contingency, chi2):
         return np.nan
 
     return np.sqrt(chi2 / denom)
+
+
+
+# function to return the effect size as table, based on the dof
+def effect_size()

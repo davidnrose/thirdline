@@ -15,4 +15,5 @@ chi2, p_value, dof, expected, null_distribution, observed = chi2_permutation(adm
 
 
 # return the effect size
-cv = cramers_v(observed, )
+cv = cramers_v(observed, chi2)
+print(round(cv, 4))
