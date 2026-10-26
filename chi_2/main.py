@@ -1,6 +1,6 @@
 import pandas as pd
 
-from chi_2 import chi2_permutation, cramers_v
+from chi_2 import chi2_permutation, cramers_v, effect_size
 
 
 # read in the example data
@@ -17,3 +17,6 @@ chi2, p_value, dof, expected, null_distribution, observed = chi2_permutation(adm
 # return the effect size
 cv = cramers_v(observed, chi2)
 print(round(cv, 4))
+
+# compare the effect size against adjusted threshold
+print(effect_size(cv=cv, dof=dof))
