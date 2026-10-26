@@ -20,3 +20,12 @@ print(round(cv, 4))
 
 # compare the effect size against adjusted threshold
 print(effect_size(cv=cv, dof=dof))
+
+
+# compare post-discarhge care types against patients without post discharge care
+
+
+# iterate through the post-care types and perform the permutation comparison
+for care_type in admissions["Care_Service_Type"].unique():
+
+    df = admissions_post_care.query("Care_Service_Type == @care_type").
