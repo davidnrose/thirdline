@@ -53,7 +53,7 @@ def chi2_permutation(
 
     # perform all permutations
     if use_tqdm: 
-        for i in tqdm(range(n_perm), desc="Processing {n_perm:,} permutations..."):
+        for i in tqdm(range(n_perm), desc=f"Processing {n_perm:,} permutations..."):
                 null_distribution[i] = chi2_shuffle(outcomes)
 
     else: 
