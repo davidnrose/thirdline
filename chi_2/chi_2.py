@@ -1,7 +1,50 @@
 import pandas as pd
 import numpy as np
 from tqdm import tqdm
+import matplotlib.pyplot as plt
 from scipy.stats import chi2_contingency
+
+
+# function to create a proportional bar chart and visualise the differences across the target column
+def plot_proportional(data,
+                      bar_col,
+                      target_col,
+                      title,
+                      xlabel, 
+                      filename,
+                      ylabel='Readmitted within 30 Days?',
+                      show=False):
+
+    counts = pd.crosstab(data[bar_col], data[target_col])
+
+    # 3. Convert counts to proportions (100% stacked) by dividing each row by its sum
+    proportions = counts.div(counts.sum(axis=1), axis=0)
+
+    # 4. Plot the stacked bar chart
+    fig, ax = plt.subplots(figsize=(8, 6))
+    proportions.plot(
+        kind='bar',
+        stacked=True,
+        ax=ax,
+        linewidth=0.5,
+    )
+
+    ax.set_ylabel(ylabel)
+    ax.set_xlabel(xlabel)
+    ax.set_title(title)
+    ax.legend(title='Legend Categories', bbox_to_anchor=(1.05, 1), loc='upper left')
+
+    ax.yaxis.set_major_formatter(
+        plt.FuncFormatter(lambda y, _: '{:.0%}'.format(y))
+    )
+
+    plt.xticks(rotation=75)
+    plt.tight_layout()
+    plt.savefig(
+        f"{filename}.jpg", format='jpeg', dpi=300, bbox_inches='tight'
+    )
+    if show: 
+        plt.show()
 
 
 # function to implement a permutation chi2 test - as more robust with lower counts
