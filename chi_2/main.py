@@ -1,11 +1,11 @@
 import pandas as pd
 import numpy as np
 
-from chi_2 import chi2_permutation, cramers_v, effect_size, plot_proportional
+from src.chi_2 import chi2_permutation, cramers_v, effect_size, plot_proportional
 
 
 # read in the example data
-admissions = pd.read_csv("hospital_readmissions_3000.csv")
+admissions = pd.read_csv("data/hospital_readmissions_3000.csv")
 
 # format the data
 admissions["Care_Service_Type"] = np.where(admissions["Care_Service_Type"].isna(), "None", admissions["Care_Service_Type"])
@@ -22,7 +22,7 @@ plot_proportional(admissions,
                   target_col="Readmitted_30Days",
                   title='Proportion of Patients Re-admitted within 30 days, by Post Discharge Care',
                   xlabel='Post Discharge Care Required?',
-                  filename='overall_proportion')
+                  filename='output/overall_proportion')
 
 
 # set parameters for running the script
@@ -47,7 +47,7 @@ plot_proportional(admissions,
                   target_col="Readmitted_30Days",
                   title='Proportion of Patients Re-admitted within 30 days, by Care Service Type',
                   xlabel='Care Service Type',
-                  filename='care_type_proportion')
+                  filename='output/care_type_proportion')
 
 
 # iterate through the post-care types and perform the permutation comparison
@@ -84,7 +84,7 @@ res["alpha"] = alpha
 res["significant"] = res["P_Value"] < alpha
 
 # save down the result
-res.to_csv("result.csv", index=False)
+res.to_csv("output/result.csv", index=False)
 
 # show the result in terminal
 print(res)
