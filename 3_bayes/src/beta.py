@@ -37,3 +37,32 @@ def beta_against_threshold(posterior,
 
     return prob_above
 
+
+
+# compile the above functions into a single function
+def run_beta(sample, 
+             prior,
+             ci_level, 
+             threshold,
+             n_sims):
+
+    # get the posterior values, posterior mean from the distribution, and the specified confidence interval
+    posterior, p_mean, p_ci = beta_distribution(sample, 
+                                                prior, 
+                                                ci_level)
+
+    # compare to the threshold to get the probability of exceeding the threshold
+    prob_above = beta_against_threshold(posterior, 
+                                        threshold,
+                                        n_sims=n_sims)
+
+    result = {
+        "posterior": posterior,
+        "p_mean": p_mean, 
+        "p_ci": p_ci,
+        "prob_above": prob_above
+    }
+
+    return result
+
+    
