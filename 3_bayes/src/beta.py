@@ -66,3 +66,22 @@ def run_beta(sample,
     return result
 
     
+
+# function to adjust the data and apply a decay factor
+def apply_decay(data, x_col, n_col, date_col, current_date, decay_factor): 
+
+    # reverse the data
+    data = data.sort_values(by=date_col, ascending=False).copy()
+
+    # add in the current date (as integer) and then calculate the number of periods past
+    data["current_date"] = current_date
+    data["periods_past"] = data["current_date"] - data[date_col]
+
+    # calculate cumulative delay factor
+    data["cum_decay_factor"] = decay_factor ** data["periods_past"]
+
+    # apply cumulative deca factor to each of the columns, and sum the result
+    data["x_decay"] = (data[x_col] * data["cum_decay_factor"])
+    data["n_decay"] = (data[n_col] * data["cum_decay_factor"])
+
+    return data
