@@ -4,7 +4,6 @@ from src.beta import run_beta
 
 # read in the mock data
 data = pd.read_csv("data/ot_sample_results.txt", sep=",", header=0)
-# format data types
 
 # function to summarise the data
 def summarise_data(data, x_col, n_col): 

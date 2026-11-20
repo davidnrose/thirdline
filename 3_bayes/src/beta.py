@@ -65,6 +65,16 @@ def run_beta(sample,
 
     return result
 
+
+
+# visualise the curve, with threshold
+def plot_beta_curve(result):
+
+    xs = np.linspace(0, 1, 2000)
+    pdf = beta.pdf(xs, result["posterior"][0], result["posterior"][1])
+    plt.plot(xs, pdf)
+    plt.axvspan(result["p"])
+
     
 
 # function to adjust the data and apply a decay factor
@@ -85,3 +95,6 @@ def apply_decay(data, x_col, n_col, date_col, current_date, decay_factor):
     data["n_decay"] = (data[n_col] * data["cum_decay_factor"])
 
     return data
+
+
+
