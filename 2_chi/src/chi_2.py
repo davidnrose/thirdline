@@ -137,10 +137,10 @@ def cramers_v(contingency, chi2):
 
 
 # function to return the effect size as table, based on the dof
-def effect_size(cv, dof): 
+def effect_size(cv, dof, thresholds=[0.05, 0.15, 0.3]): 
 
-    # set the standard values, per Cohen
-    thresholds = np.asarray([0.1, 0.3, 0.5])
+    # set the standard values
+    thresholds = np.asarray(thresholds)
 
     # adjust the thresholds with the degrees of freedom
     thresholds_adjusted = thresholds / np.sqrt(dof)
