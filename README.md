@@ -16,8 +16,9 @@ Below is a list of directories in the repo and links to the corresponding newsle
 
 | Directory | Newsletter edition |
 | ---- | ---- |
-| reconcile | reconcile link |
-| chi 2 | chi 2 link | 
+| 1_reconcile | reconcile link |
+| 2_chi | chi 2 link | 
+| 3_bayes | bayes link | 
 
 ### Contact
 
